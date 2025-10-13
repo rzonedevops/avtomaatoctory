@@ -1,0 +1,1777 @@
+{
+  "metadata": {
+    "analysis_date": "2025-10-06T17:01:12.377872",
+    "evidence_weighting": {
+      "documented_evidence": 10,
+      "verbal_evidence": 1,
+      "speculative_evidence": 0
+    }
+  },
+  "established_facts": {
+    "rynette_account_access": {
+      "fact": "Rynette Farrar is the only one with access to the accounts",
+      "implication": "Peter could not have stolen money; only Rynette could have misallocated funds",
+      "weight": 10
+    },
+    "daniel_directors_loan": {
+      "fact": "Daniel took a director's loan for 500k from the company he founded",
+      "reason": "Cards were cancelled in June secretly; he was paying company creditors from personal account",
+      "weight": 10
+    },
+    "ens_claims": {
+      "fact": "Most ENS claims were verbal",
+      "classification": "Suspicious but not material evidence",
+      "weight": 1
+    },
+    "pete_email_hijacking": {
+      "fact": "Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt",
+      "evidence_source": "OCR Screenshot 2025-06-20 Sage Account system",
+      "legal_implications": [
+        "Identity theft charges - using Peter's name on hijacked address",
+        "Perjury evidence - any Peter claims of direct email receipt are impossible",
+        "Information warfare - systematic email interception and filtering"
+      ],
+      "impact": "Invalidates all assumptions about Peter receiving emails directly",
+      "weight": 10,
+      "verification_status": "OCR_VERIFIED"
+    }
+  },
+  "rynette_farrar_evidence": {
+    "documented_actions": [
+      {
+        "document": "case_2025_137857/TIMELINE_INTEGRATED.md",
+        "context": "ine - REVISED WITH EVIDENCE\n*Updated with material evidence and critical context*\n\n## Key Context\n- Rynette Farrar is a bookkeeper (NOT director/shareholder) with unauthorized sole control\n- Peter & Jacqui are BOTH",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+        "context": "sibly Bantjies**: Divided creditors are weaker\n\n## Conclusion\n\nBased solely on material evidence:\n- Rynette Farrar (bookkeeper) illegally controls all finances\n- Peter and Jacqui are co-creditors owed R10M+ by Bant",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+        "context": "these revelations.\n\n---\n\n## \ud83d\udea8 PRIMARY OCR REVELATION\n\n**FINDING**: Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n**EVIDENCE**: OCR Screenshot 2025-06-20 shows system access panel with:\n```\n\"Ry",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+        "context": "--|-------------------|-------------------|-------------|\n| **Pete@regima.com** | Peter Faucitt | **Rynette Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette F",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+        "context": "Faucitt | **Rynette Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette Farrar | OCR Screenshot 2025-06-20 | \ud83d\udfe2 Direct |\n| danie.bantjes@gmail.com | Danie Bantjie",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+        "context": "te Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette Farrar | OCR Screenshot 2025-06-20 | \ud83d\udfe2 Direct |\n| danie.bantjes@gmail.com | Danie Bantjies | Danie Bantjie",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+        "context": "### \ud83d\udea8 Pete@regima.com Address Hijacking Details\n\n**OCR Evidence**: System access panel shows:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- A",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "ne` AND `Pete@regima.com` \n- **Linda Kruger**: `linda@regima.zone`\n\n**RAW OCR EVIDENCE LINE:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**CRITICAL IMPLICATION**: Ryne",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "s information to Peter**\n\n### **2. Information Warfare Control Points - TOTAL CONTROL REVEALED**\n\n**Rynette Farrar has COMPLETE CONTROL:**\n- Controls the `Pete@regima.com` address (per OCR evidence)\n- Controls syst",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "--|-------------------|-------------------|-------------|\n| **Pete@regima.com** | Peter Faucitt | **Rynette Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette F",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "Faucitt | **Rynette Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette Farrar | OCR Screenshot 2025-06-20 | \ud83d\udfe2 Direct |\n| danie.bantjes@gmail.com | Danie Bantjie",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "te Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette Farrar | OCR Screenshot 2025-06-20 | \ud83d\udfe2 Direct |\n| danie.bantjes@gmail.com | Danie Bantjies | Danie Bantjie",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "### \ud83d\udea8 Pete@regima.com Address Hijacking Details\n\n**OCR Evidence**: System access panel shows:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- A",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+        "context": "these revelations.\n\n---\n\n## \ud83d\udea8 PRIMARY OCR REVELATION\n\n**FINDING**: Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n**EVIDENCE**: OCR Screenshot 2025-06-20 shows system access panel with:\n```\n\"Ry",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "--|-------------------|-------------------|-------------|\n| **Pete@regima.com** | Peter Faucitt | **Rynette Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette F",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "Faucitt | **Rynette Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette Farrar | OCR Screenshot 2025-06-20 | \ud83d\udfe2 Direct |\n| danie.bantjes@gmail.com | Danie Bantjie",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "te Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette Farrar | OCR Screenshot 2025-06-20 | \ud83d\udfe2 Direct |\n| danie.bantjes@gmail.com | Danie Bantjies | Danie Bantjie",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "### \ud83d\udea8 Pete@regima.com Address Hijacking Details\n\n**OCR Evidence**: System access panel shows:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- A",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "ne` AND `Pete@regima.com` \n- **Linda Kruger**: `linda@regima.zone`\n\n**RAW OCR EVIDENCE LINE:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**CRITICAL IMPLICATION**: Ryne",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "s information to Peter**\n\n### **2. Information Warfare Control Points - TOTAL CONTROL REVEALED**\n\n**Rynette Farrar has COMPLETE CONTROL:**\n- Controls the `Pete@regima.com` address (per OCR evidence)\n- Controls syst",
+        "type": "documented",
+        "weight": 10
+      }
+    ],
+    "account_access": [
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-assumptions-update-report.md",
+        "context": "eives emails sent to Pete@regima.com directly\n\n**OCR Revelation**: Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n**Evidence**: OCR Screenshot 2025-06-20 Sage Account system shows Rynette Farra",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-assumptions-update-report.md",
+        "context": "ynette Farrar, not Peter Faucitt\n\n**Evidence**: OCR Screenshot 2025-06-20 Sage Account system shows Rynette Farrar controls Pete@regima.com\n\n**Impact Areas**:\n- All email communications allegedly received by Peter",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+        "context": "*Update Reason**: OCR analysis of Sage Account screenshots reveals Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n---\n\n## \ud83d\udcca Address vs Actual Recipient Matrix\n\n### \ud83d\udd34 Communication Channel Contr",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "*Update Reason**: OCR analysis of Sage Account screenshots reveals Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n---\n\n## \ud83d\udcca Address vs Actual Recipient Matrix\n\n### \ud83d\udd34 Communication Channel Contr",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-assumptions-update-report.md",
+        "context": "eives emails sent to Pete@regima.com directly\n\n**OCR Revelation**: Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n**Evidence**: OCR Screenshot 2025-06-20 Sage Account system shows Rynette Farra",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-assumptions-update-report.md",
+        "context": "ynette Farrar, not Peter Faucitt\n\n**Evidence**: OCR Screenshot 2025-06-20 Sage Account system shows Rynette Farrar controls Pete@regima.com\n\n**Impact Areas**:\n- All email communications allegedly received by Peter",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "*Update Reason**: OCR analysis of Sage Account screenshots reveals Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n---\n\n## \ud83d\udcca Address vs Actual Recipient Matrix\n\n### \ud83d\udd34 Communication Channel Contr",
+        "type": "documented",
+        "weight": 10
+      }
+    ],
+    "financial_transactions": [],
+    "written_communications": [
+      {
+        "document": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+        "context": "esn't handle finances)\n\n### 3. Email Control Structure\n- **FACT**: Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n- **EVIDENCE**: System access panel documentation\n- **IMPACT**: All emails to \"P",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+        "context": "igned (medical testing)\n- **Legal Representation**: Withdrawn\n- **Financial Control**: Remains with Rynette Farrar\n\n## Required Evidence for Future Claims\n\nAny future accusations must include:\n1. Written documentat",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/02_evidence/evidence-thread-analysis.md",
+        "context": "\ud83d\udea8 NEW: OCR ANALYSIS REVEALS COMPLETE EMAIL HIJACKING\n**EXPLOSIVE DISCOVERY**: OCR analysis proves **Rynette Farrar controls the Pete@regima.com email address** - Peter Faucitt NEVER directly received emails to this",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/02_evidence/evidence-thread-analysis.md",
+        "context": "Peter Faucitt NEVER directly received emails to this address.\n\n**Critical OCR Evidence Line:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**See Full Analysis**: [OCR Em",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/02_evidence/evidence-thread-analysis.md",
+        "context": "this address.\n\n**Critical OCR Evidence Line:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**See Full Analysis**: [OCR Email CC Analysis - Critical Findings](ocr-email-",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/forensic_analysis/interdict_legitimacy_verification.md",
+        "context": "urt Order Assumption**: Peter Faucitt receives communications\n- **Evidence Reality**: Controlled by Rynette Farrar (OCR evidence)\n- **Verification Impact**: All email-based evidence compromised\n\n---\n\n## 4. LEGITIMA",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/eviden-thread.md",
+        "context": "\ud83d\udea8 NEW: OCR ANALYSIS REVEALS COMPLETE EMAIL HIJACKING\n**EXPLOSIVE DISCOVERY**: OCR analysis proves **Rynette Farrar controls the Pete@regima.com email address** - Peter Faucitt NEVER directly received emails to this",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/eviden-thread.md",
+        "context": "Peter Faucitt NEVER directly received emails to this address.\n\n**Critical OCR Evidence Line:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**See Full Analysis**: [OCR Em",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/eviden-thread.md",
+        "context": "this address.\n\n**Critical OCR Evidence Line:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**See Full Analysis**: [OCR Email CC Analysis - Critical Findings](ocr-email-",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+        "context": "ar, not Peter Faucitt\n\n**EVIDENCE**: OCR Screenshot 2025-06-20 shows system access panel with:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**IMPLICATIONS**: \n- All email",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+        "context": "shot 2025-06-20 shows system access panel with:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**IMPLICATIONS**: \n- All emails to Pete@regima.com are received by Rynette Fa",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+        "context": "tte Farrar Pete@regima.com\"\n```\n\n**IMPLICATIONS**: \n- All emails to Pete@regima.com are received by Rynette Farrar\n- Peter Faucitt has no direct access to \"his\" email address\n- Any claim of Peter receiving emails d",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+        "context": "**Issue**: Using \"Peter's\" name on email address controlled by Rynette\n- **Evidence**: System shows Rynette Farrar associated with Pete@regima.com\n- **Status**: Criminal charges applicable\n- **Action**: Investigate",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+        "context": "Mapped\n```\nPete@regima.com -[nominal_ownership]-> Peter Faucitt\nPete@regima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[intercepted_by]-> Rynette Farrar\nRynette -[filters_info]-",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+        "context": ".com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[intercepted_by]-> Rynette Farrar\nRynette -[filters_info]-> Peter Faucitt\nPeter -[claims_direct_receipt]-> IMPOSSIBLE (perjury eviden",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+        "context": "s\n\n**OCR Evidence**: System access panel shows:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- All emails to Pete@regima.com are received by Ry",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+        "context": "ar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- All emails to Pete@regima.com are received by Rynette Farrar\n- Peter Faucitt has NO direct access to \"his\" email address\n- Peter receives only filtered/interpre",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+        "context": "*: Peter not only doesn't use computers, but his apparent email address is completely controlled by Rynette Farrar - creating total information dependency.\n\n| Date | Event/Document/Action | Peter's Knowledge Level",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+        "context": "ring\n- Any claim of direct email receipt = **PERJURY** (impossible due to address hijacking)\n\n### \ud83d\udd35 RYNETTE FARRAR (INFORMATION CONTROLLER - Previously Underestimated)\n\n**\ud83d\udea8 NEW CRITICAL ROLE**: OCR reveals Rynette",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+        "context": "**\n   - \u274c **CANNOT be directly received by Peter** (OCR proves impossible)\n   - \u2705 **All received by Rynette Farrar** (OCR confirms)\n   - \u26a0\ufe0f **Need to verify what Peter actually knew vs. what emails claimed**\n\n2. **",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+        "context": "ships:\n```\nPete@regima.com -[nominal_ownership]-> Peter Faucitt\nPete@regima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_in",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+        "context": "ima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_info]-> Peter Faucitt\nPeter Faucitt -[claims_direct_receipt]-> IMPOSSIBLE",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+        "context": "l_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_info]-> Peter Faucitt\nPeter Faucitt -[claims_direct_receipt]-> IMPOSSIBLE (perjury eviden",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "`linda@regima.zone`\n\n**RAW OCR EVIDENCE LINE:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**CRITICAL IMPLICATION**: Rynette Farrar controls BOTH her own email AND the",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "rrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**CRITICAL IMPLICATION**: Rynette Farrar controls BOTH her own email AND the `Pete@regima.com` address!\n\n**Key System Interface Text:**\n```",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "ma.com` (appears to go to Peter Faucitt)\n- **BUT OCR PROVES**: `Pete@regima.com` is controlled by **Rynette Farrar**\n- Peter Faucitt may NEVER have directly received emails sent to `Pete@regima.com`\n- **Rynette Far",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "ette Farrar**\n- Peter Faucitt may NEVER have directly received emails sent to `Pete@regima.com`\n- **Rynette Farrar receives ALL emails to both addresses and filters information to Peter**\n\n### **2. Information Warf",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "any.com, Pete@regima.com, danie@company.com\nREALITY: \u2192 All emails to Pete@regima.com go directly to Rynette Farrar\n          \u2192 Peter Faucitt receives ONLY what Rynette chooses to tell him\n          \u2192 Peter may not",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "ed version (if anything)\nWHAT EMAIL CC SUGGESTS: Direct receipt by Peter Faucitt  \nWHAT OCR PROVES: Rynette Farrar receives and controls ALL \"Peter\" emails\nLEGAL IMPLICATION: Any claim of Peter receiving emails dir",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "**OCR PROVES**: These statements are **IMPOSSIBLE** because:\n- `Pete@regima.com` is controlled by Rynette Farrar (per OCR evidence)\n- Peter cannot receive emails to an address controlled by someone else\n- Any \"kn",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "er received the June 10 email directly\"\n**OCR REALITY**: Impossible - Pete@regima.com controlled by Rynette Farrar\n**LEGAL IMPACT**: Attorneys either knew of the hijacking (conspiracy) or failed due diligence\n\n---",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "rs directly\"\n\n**OCR EVIDENCE PROVES MUCH WORSE:**\n- System shows `Pete@regima.com` is controlled by Rynette Farrar\n- Any email sent to `Pete@regima.com` goes directly to Rynette\n- Peter cannot directly receive emai",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "\"Peter received email\"\n\n2. **Reality Level (What OCR Reveals):**\n   - Pete@regima.com controlled by Rynette Farrar (OCR proof)\n   - Peter CANNOT receive emails to address controlled by Rynette\n   - Information comp",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "-----|-------------------|--------------|\n| **Recipient** | Pete@regima.com | Address controlled by Rynette Farrar | Complete email hijacking |\n| **Access Method** | Direct email receipt | All Pete@ emails go to Ry",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "- COMPLETE EMAIL HIJACKING:**\n```\nDaniel Faucitt (Email Sender)\n    \u2193\nPete@regima.com (Hijacked by Rynette Farrar - OCR Proof)\n    \u2193\nRynette Farrar (Controls \"Peter's\" email address)\n    \u2193\nPeter Faucitt (Receives",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "Daniel Faucitt (Email Sender)\n    \u2193\nPete@regima.com (Hijacked by Rynette Farrar - OCR Proof)\n    \u2193\nRynette Farrar (Controls \"Peter's\" email address)\n    \u2193\nPeter Faucitt (Receives only filtered information, if any)",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "Address Hijacking\n\n**CASE IMPACT**: \n- Every email claimed to be received by Peter is IMPOSSIBLE\n- Rynette Farrar has complete control over \"Peter's\" email address\n- Identity theft charges for using Peter's name o",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+        "context": "es that Peter Faucitt NEVER directly received any emails sent to Pete@regima.com - they all went to Rynette Farrar who controlled the address.\n\n---\n\n## \ud83d\udccb **NEXT STEPS FOR INVESTIGATION**\n\n1. **Subpoena Rynette's Em",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/court_order_2025_137857.md",
+        "context": "August 19, 2025 - Peter granted control\n- **Email Evidence Invalid**: Pete@regima.com controlled by Rynette Farrar, not Peter Faucitt ([OCR Evidence](../03_analysis/ocr_analysis/))\n- **Victim Mischaracterization**:",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "s\n\n**OCR Evidence**: System access panel shows:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- All emails to Pete@regima.com are received by Ry",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "ar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- All emails to Pete@regima.com are received by Rynette Farrar\n- Peter Faucitt has NO direct access to \"his\" email address\n- Peter receives only filtered/interpre",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "*: Peter not only doesn't use computers, but his apparent email address is completely controlled by Rynette Farrar - creating total information dependency.\n\n| Date | Event/Document/Action | Peter's Knowledge Level",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "ring\n- Any claim of direct email receipt = **PERJURY** (impossible due to address hijacking)\n\n### \ud83d\udd35 RYNETTE FARRAR (INFORMATION CONTROLLER - Previously Underestimated)\n\n**\ud83d\udea8 NEW CRITICAL ROLE**: OCR reveals Rynette",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "**\n   - \u274c **CANNOT be directly received by Peter** (OCR proves impossible)\n   - \u2705 **All received by Rynette Farrar** (OCR confirms)\n   - \u26a0\ufe0f **Need to verify what Peter actually knew vs. what emails claimed**\n\n2. **",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "ships:\n```\nPete@regima.com -[nominal_ownership]-> Peter Faucitt\nPete@regima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_in",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "ima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_info]-> Peter Faucitt\nPeter Faucitt -[claims_direct_receipt]-> IMPOSSIBLE",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "l_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_info]-> Peter Faucitt\nPeter Faucitt -[claims_direct_receipt]-> IMPOSSIBLE (perjury eviden",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+        "context": "ar, not Peter Faucitt\n\n**EVIDENCE**: OCR Screenshot 2025-06-20 shows system access panel with:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**IMPLICATIONS**: \n- All email",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+        "context": "shot 2025-06-20 shows system access panel with:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**IMPLICATIONS**: \n- All emails to Pete@regima.com are received by Rynette Fa",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+        "context": "tte Farrar Pete@regima.com\"\n```\n\n**IMPLICATIONS**: \n- All emails to Pete@regima.com are received by Rynette Farrar\n- Peter Faucitt has no direct access to \"his\" email address\n- Any claim of Peter receiving emails d",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+        "context": "**Issue**: Using \"Peter's\" name on email address controlled by Rynette\n- **Evidence**: System shows Rynette Farrar associated with Pete@regima.com\n- **Status**: Criminal charges applicable\n- **Action**: Investigate",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+        "context": "Mapped\n```\nPete@regima.com -[nominal_ownership]-> Peter Faucitt\nPete@regima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[intercepted_by]-> Rynette Farrar\nRynette -[filters_info]-",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+        "context": ".com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[intercepted_by]-> Rynette Farrar\nRynette -[filters_info]-> Peter Faucitt\nPeter -[claims_direct_receipt]-> IMPOSSIBLE (perjury eviden",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "s\n\n**OCR Evidence**: System access panel shows:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- All emails to Pete@regima.com are received by Ry",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "ar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- All emails to Pete@regima.com are received by Rynette Farrar\n- Peter Faucitt has NO direct access to \"his\" email address\n- Peter receives only filtered/interpre",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "*: Peter not only doesn't use computers, but his apparent email address is completely controlled by Rynette Farrar - creating total information dependency.\n\n| Date | Event/Document/Action | Peter's Knowledge Level",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "ring\n- Any claim of direct email receipt = **PERJURY** (impossible due to address hijacking)\n\n### \ud83d\udd35 RYNETTE FARRAR (INFORMATION CONTROLLER - Previously Underestimated)\n\n**\ud83d\udea8 NEW CRITICAL ROLE**: OCR reveals Rynette",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "**\n   - \u274c **CANNOT be directly received by Peter** (OCR proves impossible)\n   - \u2705 **All received by Rynette Farrar** (OCR confirms)\n   - \u26a0\ufe0f **Need to verify what Peter actually knew vs. what emails claimed**\n\n2. **",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "ships:\n```\nPete@regima.com -[nominal_ownership]-> Peter Faucitt\nPete@regima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_in",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "ima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_info]-> Peter Faucitt\nPeter Faucitt -[claims_direct_receipt]-> IMPOSSIBLE",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+        "context": "l_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_info]-> Peter Faucitt\nPeter Faucitt -[claims_direct_receipt]-> IMPOSSIBLE (perjury eviden",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "`linda@regima.zone`\n\n**RAW OCR EVIDENCE LINE:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**CRITICAL IMPLICATION**: Rynette Farrar controls BOTH her own email AND the",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "rrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**CRITICAL IMPLICATION**: Rynette Farrar controls BOTH her own email AND the `Pete@regima.com` address!\n\n**Key System Interface Text:**\n```",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "ma.com` (appears to go to Peter Faucitt)\n- **BUT OCR PROVES**: `Pete@regima.com` is controlled by **Rynette Farrar**\n- Peter Faucitt may NEVER have directly received emails sent to `Pete@regima.com`\n- **Rynette Far",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "ette Farrar**\n- Peter Faucitt may NEVER have directly received emails sent to `Pete@regima.com`\n- **Rynette Farrar receives ALL emails to both addresses and filters information to Peter**\n\n### **2. Information Warf",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "any.com, Pete@regima.com, danie@company.com\nREALITY: \u2192 All emails to Pete@regima.com go directly to Rynette Farrar\n          \u2192 Peter Faucitt receives ONLY what Rynette chooses to tell him\n          \u2192 Peter may not",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "ed version (if anything)\nWHAT EMAIL CC SUGGESTS: Direct receipt by Peter Faucitt  \nWHAT OCR PROVES: Rynette Farrar receives and controls ALL \"Peter\" emails\nLEGAL IMPLICATION: Any claim of Peter receiving emails dir",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "**OCR PROVES**: These statements are **IMPOSSIBLE** because:\n- `Pete@regima.com` is controlled by Rynette Farrar (per OCR evidence)\n- Peter cannot receive emails to an address controlled by someone else\n- Any \"kn",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "er received the June 10 email directly\"\n**OCR REALITY**: Impossible - Pete@regima.com controlled by Rynette Farrar\n**LEGAL IMPACT**: Attorneys either knew of the hijacking (conspiracy) or failed due diligence\n\n---",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "rs directly\"\n\n**OCR EVIDENCE PROVES MUCH WORSE:**\n- System shows `Pete@regima.com` is controlled by Rynette Farrar\n- Any email sent to `Pete@regima.com` goes directly to Rynette\n- Peter cannot directly receive emai",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "\"Peter received email\"\n\n2. **Reality Level (What OCR Reveals):**\n   - Pete@regima.com controlled by Rynette Farrar (OCR proof)\n   - Peter CANNOT receive emails to address controlled by Rynette\n   - Information comp",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "-----|-------------------|--------------|\n| **Recipient** | Pete@regima.com | Address controlled by Rynette Farrar | Complete email hijacking |\n| **Access Method** | Direct email receipt | All Pete@ emails go to Ry",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "- COMPLETE EMAIL HIJACKING:**\n```\nDaniel Faucitt (Email Sender)\n    \u2193\nPete@regima.com (Hijacked by Rynette Farrar - OCR Proof)\n    \u2193\nRynette Farrar (Controls \"Peter's\" email address)\n    \u2193\nPeter Faucitt (Receives",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "Daniel Faucitt (Email Sender)\n    \u2193\nPete@regima.com (Hijacked by Rynette Farrar - OCR Proof)\n    \u2193\nRynette Farrar (Controls \"Peter's\" email address)\n    \u2193\nPeter Faucitt (Receives only filtered information, if any)",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "Address Hijacking\n\n**CASE IMPACT**: \n- Every email claimed to be received by Peter is IMPOSSIBLE\n- Rynette Farrar has complete control over \"Peter's\" email address\n- Identity theft charges for using Peter's name o",
+        "type": "documented",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+        "context": "es that Peter Faucitt NEVER directly received any emails sent to Pete@regima.com - they all went to Rynette Farrar who controlled the address.\n\n---\n\n## \ud83d\udccb **NEXT STEPS FOR INVESTIGATION**\n\n1. **Subpoena Rynette's Em",
+        "type": "documented",
+        "weight": 10
+      }
+    ]
+  },
+  "daniel_evidence": {
+    "directors_loan": [
+      {
+        "document": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+        "context": "dence only (10x weight)\n\n**Critical Context**: \n- Jacqui Faucitt does NOT handle finances\n- No evidence of financial wrongdoing by Jacqui\n- R500k was Daniel's director's loan, not a gift from Jacqui\n- **CRUCIAL**: Danie Bantjies owes BOTH Peter & Jacqui R10M+ (due April 2026)\n- Fighting each other risks t",
+        "type": "Daniel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+        "context": "ole, does NOT handle finances\n- **Peter Faucitt**: \n  - Status: Locked out of own accounts by bookkeeper\n  - Access: NONE (even to his own funds)\n- **Daniel Faucitt**: Company owner with legal right to director's loans\n\n### Documented Facts vs False Claims\n- **FALSE**: \"Jacqui gave R500k to Daniel\" \u2192 **TR",
+        "type": "Daniel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+        "context": "ds)\n- **Daniel Faucitt**: Company owner with legal right to director's loans\n\n### Documented Facts vs False Claims\n- **FALSE**: \"Jacqui gave R500k to Daniel\" \u2192 **TRUTH**: Director's loan from Daniel's own company\n- **FALSE**: \"Peter stole Kayla's money\" \u2192 **TRUTH**: Impossible - only Rynette has account a",
+        "type": "Daniel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+        "context": "th legal right to director's loans\n\n### Documented Facts vs False Claims\n- **FALSE**: \"Jacqui gave R500k to Daniel\" \u2192 **TRUTH**: Director's loan from Daniel's own company\n- **FALSE**: \"Peter stole Kayla's money\" \u2192 **TRUTH**: Impossible - only Rynette has account access\n- **FALSE**: \"Unauthorized transfer\"",
+        "type": "Daniel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+        "context": "y (10x weight)\n\n**Critical Context**: \n- Jacqui Faucitt does NOT handle finances\n- No evidence of financial wrongdoing by Jacqui\n- R500k was Daniel's director's loan, not a gift from Jacqui\n- **CRUCIAL**: Danie Bantjies owes BOTH Peter & Jacqui R10M+ (due April 2026)\n- Fighting each other risks their joint R10M co",
+        "type": "director.*loan",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+        "context": "- Status: Locked out of own accounts by bookkeeper\n  - Access: NONE (even to his own funds)\n- **Daniel Faucitt**: Company owner with legal right to director's loans\n\n### Documented Facts vs False Claims\n- **FALSE**: \"Jacqui gave R500k to Daniel\" \u2192 **TRUTH**: Director's loan from Daniel's own company\n- **FALSE**:",
+        "type": "director.*loan",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+        "context": "t**: Company owner with legal right to director's loans\n\n### Documented Facts vs False Claims\n- **FALSE**: \"Jacqui gave R500k to Daniel\" \u2192 **TRUTH**: Director's loan from Daniel's own company\n- **FALSE**: \"Peter stole Kayla's money\" \u2192 **TRUTH**: Impossible - only Rynette has account access\n- **FALSE**: \"Unauthoriz",
+        "type": "director.*loan",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+        "context": "mented evidence only (10x weight)\n\n**Critical Context**: \n- Jacqui Faucitt does NOT handle finances\n- No evidence of financial wrongdoing by Jacqui\n- R500k was Daniel's director's loan, not a gift from Jacqui\n- **CRUCIAL**: Danie Bantjies owes BOTH Peter & Jacqui R10M+ (due April 2026)\n- Fighting each o",
+        "type": "500k|500,000|R500",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+        "context": "s own funds)\n- **Daniel Faucitt**: Company owner with legal right to director's loans\n\n### Documented Facts vs False Claims\n- **FALSE**: \"Jacqui gave R500k to Daniel\" \u2192 **TRUTH**: Director's loan from Daniel's own company\n- **FALSE**: \"Peter stole Kayla's money\" \u2192 **TRUTH**: Impossible - only Rynette ha",
+        "type": "500k|500,000|R500",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/CASE_SUMMARY_UPDATED.md",
+        "context": "ditors, they should cooperate, not fight\n- Their conflict only benefits Rynette (maintains control) and possibly Bantjies\n\n### Evidence-Based Facts\n- Daniel's R500k was a legitimate director's loan (NOT a gift from Jacqui)\n- Jacqui does NOT handle finances - no wrongdoing possible\n- Peter CANNOT have stol",
+        "type": "Daniel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/CASE_SUMMARY_UPDATED.md",
+        "context": "ot fight\n- Their conflict only benefits Rynette (maintains control) and possibly Bantjies\n\n### Evidence-Based Facts\n- Daniel's R500k was a legitimate director's loan (NOT a gift from Jacqui)\n- Jacqui does NOT handle finances - no wrongdoing possible\n- Peter CANNOT have stolen money - he has no access\n\n## Document",
+        "type": "director.*loan",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/CASE_SUMMARY_UPDATED.md",
+        "context": "hey should cooperate, not fight\n- Their conflict only benefits Rynette (maintains control) and possibly Bantjies\n\n### Evidence-Based Facts\n- Daniel's R500k was a legitimate director's loan (NOT a gift from Jacqui)\n- Jacqui does NOT handle finances - no wrongdoing possible\n- Peter CANNOT have stolen mone",
+        "type": "500k|500,000|R500",
+        "weight": 10
+      }
+    ],
+    "card_cancellations": [
+      {
+        "document": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+        "context": "r's loan on July 16, 2025\n- **CONTEXT**: Company cards were secretly cancelled on June 7, 2025\n- **REASON**: Daniel was paying company creditors from personal account for 6 weeks\n- **PURPOSE**: Maintain business operations and reimburse personal expenditures\n- **LEGITIMACY**: Legal right as company owner; documente",
+        "type": "personal\\s*account",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+        "context": "ements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records prove legitimate business expenses, not gambling/porn as alleged\n\n6. **Peter's Rush t",
+        "type": "Daniel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+        "context": "el submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records prove legitimate business expenses, not gambling/porn",
+        "type": "card.*cancel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+        "context": "ambling and porn. I immediately submitted bank statements proving these were legitimate company expenses paid from my personal account due to company cards being cancelled 6 weeks earlier. Despite this clear evidence, Peter continues rushing toward forced medical testing, proving it was never about legitimate concern",
+        "type": "card.*cancel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+        "context": "tatement Defense:**\n   - Daniel submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records prove legitimate business expe",
+        "type": "personal\\s*account",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+        "context": "egations that I spent money on gambling and porn. I immediately submitted bank statements proving these were legitimate company expenses paid from my personal account due to company cards being cancelled 6 weeks earlier. Despite this clear evidence, Peter continues rushing toward forced medical testing, proving it",
+        "type": "personal\\s*account",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+        "context": "esting\n\n5. **Daniel's Bank Statement Defense:**\n   - Daniel submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records pr",
+        "type": "company\\s*creditor",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/forensic_analysis/executive_summary_report.md",
+        "context": "---\n\n## TIMELINE OF CRITICAL EVENTS\n\n```\nJune 2025:      Accountant discovers discrepancies\n                Cards cancelled by Peter\n\nJuly 16, 2025:  R500,000 unauthorized transfer\nJuly 25, 2025:  Duplicate cards obtained\n\nAugust 5, 2025: Exchange control warning\nAugust 14, 2025: Application filed\nAugus",
+        "type": "500k|500,000|R500",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/forensic_analysis/interdict_forensic_analysis.md",
+        "context": "Discovery of financial discrepancies begins\n\n**June 2025**\n- Applicant cancels all business bank cards\n- Requests invoices and proof of expenses from Daniel\n- Business disruptions begin (domains, subscriptions halted)\n\n**July 2025**\n- Bantjes identifies numerous irregular payments\n- First Respondent obtai",
+        "type": "Daniel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/forensic_analysis/interdict_forensic_analysis.md",
+        "context": "ral Red Flags\n1. **Obstruction**: Refusal to provide documentation\n2. **Retaliation**: Denial of email access to staff\n3. **Defiance**: Obtaining new cards after cancellation\n4. **Enabling**: Mother protecting son, making unauthorized payment\n5. **Escalation**: R500,000 transfer after confrontation\n\n### Control Envir",
+        "type": "card.*cancel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/APR-SEP-2025.md",
+        "context": "and transparency by Dan\n- **Framework Phase:** Pre-Investigation (documentation and transparency before discovery)\n\n### **JUNE 7, 2025**\n**Worldwide Cards Cancelled:**\n- Mass cancellation of financial access cards\n- Systematic cutting off of financial resources\n- Coordinated attack on victim's financial access",
+        "type": "card.*cancel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/APR-SEP-2025.md",
+        "context": "2025 | Documentation & Transparency | Dan emails comprehensive reports to Bantjies | Pre-Investigation |\n| June 7, 2025 | Financial Control Seizure | Cards cancelled systematically | Pre-Investigation |\n| June 8, 2025 | Business Sabotage Discovery | Shopify orders stopped, audit trail missing | Pre-Investigatio",
+        "type": "card.*cancel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/APR-SEP-2025.md",
+        "context": "ily member | Pre-Investigation |\n| June 6, 2025 | Documentation & Transparency | Dan emails comprehensive reports to Bantjies | Pre-Investigation |\n| June 7, 2025 | Financial Control Seizure | Cards cancelled systematically | Pre-Investigation |\n| June 8, 2025 | Business Sabotage Discovery | Shopify orders stopped, audit trail missing | Pre-Investigatio",
+        "type": "June.*cancel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+        "context": "ements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records prove legitimate business expenses, not gambling/porn as alleged\n\n6. **Peter's Rush t",
+        "type": "Daniel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+        "context": "el submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records prove legitimate business expenses, not gambling/porn",
+        "type": "card.*cancel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+        "context": "ambling and porn. I immediately submitted bank statements proving these were legitimate company expenses paid from my personal account due to company cards being cancelled 6 weeks earlier. Despite this clear evidence, Peter continues rushing toward forced medical testing, proving it was never about legitimate concern",
+        "type": "card.*cancel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+        "context": "tatement Defense:**\n   - Daniel submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records prove legitimate business expe",
+        "type": "personal\\s*account",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+        "context": "egations that I spent money on gambling and porn. I immediately submitted bank statements proving these were legitimate company expenses paid from my personal account due to company cards being cancelled 6 weeks earlier. Despite this clear evidence, Peter continues rushing toward forced medical testing, proving it",
+        "type": "personal\\s*account",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+        "context": "esting\n\n5. **Daniel's Bank Statement Defense:**\n   - Daniel submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records pr",
+        "type": "company\\s*creditor",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/APR-SEP-2025 (1).md",
+        "context": "and transparency by Dan\n- **Framework Phase:** Pre-Investigation (documentation and transparency before discovery)\n\n### **JUNE 7, 2025**\n**Worldwide Cards Cancelled:**\n- Mass cancellation of financial access cards\n- Systematic cutting off of financial resources\n- Coordinated attack on victim's financial access",
+        "type": "card.*cancel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/APR-SEP-2025 (1).md",
+        "context": "2025 | Documentation & Transparency | Dan emails comprehensive reports to Bantjies | Pre-Investigation |\n| June 7, 2025 | Financial Control Seizure | Cards cancelled systematically | Pre-Investigation |\n| June 8, 2025 | Business Sabotage Discovery | Shopify orders stopped, audit trail missing | Pre-Investigatio",
+        "type": "card.*cancel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/APR-SEP-2025 (1).md",
+        "context": "ily member | Pre-Investigation |\n| June 6, 2025 | Documentation & Transparency | Dan emails comprehensive reports to Bantjies | Pre-Investigation |\n| June 7, 2025 | Financial Control Seizure | Cards cancelled systematically | Pre-Investigation |\n| June 8, 2025 | Business Sabotage Discovery | Shopify orders stopped, audit trail missing | Pre-Investigatio",
+        "type": "June.*cancel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md",
+        "context": "and transparency by Dan\n- **Framework Phase:** Pre-Investigation (documentation and transparency before discovery)\n\n### **JUNE 7, 2025**\n**Worldwide Cards Cancelled:**\n- Mass cancellation of financial access cards\n- Systematic cutting off of financial resources\n- Coordinated attack on victim's financial access",
+        "type": "card.*cancel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md",
+        "context": "2025 | Documentation & Transparency | Dan emails comprehensive reports to Bantjies | Pre-Investigation |\n| June 7, 2025 | Financial Control Seizure | Cards cancelled systematically | Pre-Investigation |\n| June 8, 2025 | Business Sabotage Discovery | Shopify orders stopped, audit trail missing | Pre-Investigatio",
+        "type": "card.*cancel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md",
+        "context": "ily member | Pre-Investigation |\n| June 6, 2025 | Documentation & Transparency | Dan emails comprehensive reports to Bantjies | Pre-Investigation |\n| June 7, 2025 | Financial Control Seizure | Cards cancelled systematically | Pre-Investigation |\n| June 8, 2025 | Business Sabotage Discovery | Shopify orders stopped, audit trail missing | Pre-Investigatio",
+        "type": "June.*cancel",
+        "weight": 10
+      }
+    ],
+    "personal_payments": [
+      {
+        "document": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+        "context": "penses were legitimate company costs\n   - Shows Peter is rushing past evidence to force medical testing\n\n5. **Daniel's Bank Statement Defense:**\n   - Daniel submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to ca",
+        "type": "Daniel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+        "context": "penses were legitimate company costs\n   - Shows Peter is rushing past evidence to force medical testing\n\n5. **Daniel's Bank Statement Defense:**\n   - Daniel submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to ca",
+        "type": "Daniel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md",
+        "context": "ensive bank statements to ENS proving expenses were legitimate company costs\n- Bank statements clearly show expenses were company creditors paid from Daniel's personal account\n- Demonstrates Peter is rushing past contradictory evidence to force medical testing\n- **Legal Significance:** Perjury, malicious",
+        "type": "Daniel",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md",
+        "context": "nk statements to ENS proving expenses were legitimate company costs\n- Bank statements clearly show expenses were company creditors paid from Daniel's personal account\n- Demonstrates Peter is rushing past contradictory evidence to force medical testing\n- **Legal Significance:** Perjury, malicious prosecution, defama",
+        "type": "personal\\s*account",
+        "weight": 10
+      },
+      {
+        "document": "case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md",
+        "context": "TER Daniel submitted comprehensive bank statements to ENS proving expenses were legitimate company costs\n- Bank statements clearly show expenses were company creditors paid from Daniel's personal account\n- Demonstrates Peter is rushing past contradictory evidence to force medical testing\n- **Legal Significance:** P",
+        "type": "company\\s*creditor",
+        "weight": 10
+      }
+    ],
+    "company_founding": [
+      {
+        "document": "case_2025_137857/forensic_analysis/executive_summary_report.md",
+        "context": "zed \"Birthday Gift\": R500,000.00\n\n**Monthly Burn Rate**: ~R350,000 (escalating)\n\n### 2. Primary Actors & Roles\n\n**Peter Faucitt (Applicant)**\n- Role: Founder/Director seeking to protect corporate assets\n- Position: Reactive discovery of misconduct\n- Strength: Documentary evidence holder\n\n**Jacqueline Fauci",
+        "type": "founder",
+        "weight": 10
+      }
+    ]
+  },
+  "financial_evidence": {
+    "bank_statements": [],
+    "invoices": [],
+    "account_records": [
+      {
+        "document": "Re_ The RegimA Group results and Computer Expense analysis.eml",
+        "type": "financial_document",
+        "weight": 10,
+        "classification": "expense_report"
+      },
+      {
+        "document": "Fw_ The RegimA Group results and Computer Expense analysis.msg",
+        "type": "financial_document",
+        "weight": 10,
+        "classification": "expense_report"
+      },
+      {
+        "document": "COMPUTER EXP MAR AND APR2025 (2).xlsx",
+        "type": "financial_document",
+        "weight": 10,
+        "classification": "financial_record"
+      },
+      {
+        "document": "Fw_ The RegimA Group results and Computer Expense analysis.eml",
+        "type": "financial_document",
+        "weight": 10,
+        "classification": "expense_report"
+      }
+    ],
+    "transaction_evidence": []
+  },
+  "key_findings": [
+    {
+      "finding": "Rynette Farrar had exclusive account access",
+      "evidence_type": "documented",
+      "weight": 10,
+      "implication": "Only Rynette could have performed account transactions"
+    },
+    {
+      "finding": "Daniel took a 500k director's loan",
+      "evidence_type": "documented",
+      "weight": 10,
+      "context": "Company cards cancelled in June; personal account used for creditors"
+    }
+  ],
+  "material_evidence_only": [
+    {
+      "evidence": "ine - REVISED WITH EVIDENCE\n*Updated with material evidence and critical context*\n\n## Key Context\n- Rynette Farrar is a bookkeeper (NOT director/shareholder) with unauthorized sole control\n- Peter & Jacqui are BOTH",
+      "source": "case_2025_137857/TIMELINE_INTEGRATED.md",
+      "weight": 10
+    },
+    {
+      "evidence": "sibly Bantjies**: Divided creditors are weaker\n\n## Conclusion\n\nBased solely on material evidence:\n- Rynette Farrar (bookkeeper) illegally controls all finances\n- Peter and Jacqui are co-creditors owed R10M+ by Bant",
+      "source": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+      "weight": 10
+    },
+    {
+      "evidence": "these revelations.\n\n---\n\n## \ud83d\udea8 PRIMARY OCR REVELATION\n\n**FINDING**: Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n**EVIDENCE**: OCR Screenshot 2025-06-20 shows system access panel with:\n```\n\"Ry",
+      "source": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "--|-------------------|-------------------|-------------|\n| **Pete@regima.com** | Peter Faucitt | **Rynette Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette F",
+      "source": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "Faucitt | **Rynette Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette Farrar | OCR Screenshot 2025-06-20 | \ud83d\udfe2 Direct |\n| danie.bantjes@gmail.com | Danie Bantjie",
+      "source": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "te Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette Farrar | OCR Screenshot 2025-06-20 | \ud83d\udfe2 Direct |\n| danie.bantjes@gmail.com | Danie Bantjies | Danie Bantjie",
+      "source": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "### \ud83d\udea8 Pete@regima.com Address Hijacking Details\n\n**OCR Evidence**: System access panel shows:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- A",
+      "source": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ne` AND `Pete@regima.com` \n- **Linda Kruger**: `linda@regima.zone`\n\n**RAW OCR EVIDENCE LINE:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**CRITICAL IMPLICATION**: Ryne",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "s information to Peter**\n\n### **2. Information Warfare Control Points - TOTAL CONTROL REVEALED**\n\n**Rynette Farrar has COMPLETE CONTROL:**\n- Controls the `Pete@regima.com` address (per OCR evidence)\n- Controls syst",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "--|-------------------|-------------------|-------------|\n| **Pete@regima.com** | Peter Faucitt | **Rynette Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette F",
+      "source": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "Faucitt | **Rynette Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette Farrar | OCR Screenshot 2025-06-20 | \ud83d\udfe2 Direct |\n| danie.bantjes@gmail.com | Danie Bantjie",
+      "source": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "te Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette Farrar | OCR Screenshot 2025-06-20 | \ud83d\udfe2 Direct |\n| danie.bantjes@gmail.com | Danie Bantjies | Danie Bantjie",
+      "source": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "### \ud83d\udea8 Pete@regima.com Address Hijacking Details\n\n**OCR Evidence**: System access panel shows:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- A",
+      "source": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "these revelations.\n\n---\n\n## \ud83d\udea8 PRIMARY OCR REVELATION\n\n**FINDING**: Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n**EVIDENCE**: OCR Screenshot 2025-06-20 shows system access panel with:\n```\n\"Ry",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "--|-------------------|-------------------|-------------|\n| **Pete@regima.com** | Peter Faucitt | **Rynette Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette F",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "Faucitt | **Rynette Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette Farrar | OCR Screenshot 2025-06-20 | \ud83d\udfe2 Direct |\n| danie.bantjes@gmail.com | Danie Bantjie",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "te Farrar** | OCR Screenshot 2025-06-20 | \ud83d\udd34 **CRITICAL** |\n| rynette@regima.zone | Rynette Farrar | Rynette Farrar | OCR Screenshot 2025-06-20 | \ud83d\udfe2 Direct |\n| danie.bantjes@gmail.com | Danie Bantjies | Danie Bantjie",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "### \ud83d\udea8 Pete@regima.com Address Hijacking Details\n\n**OCR Evidence**: System access panel shows:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- A",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ne` AND `Pete@regima.com` \n- **Linda Kruger**: `linda@regima.zone`\n\n**RAW OCR EVIDENCE LINE:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**CRITICAL IMPLICATION**: Ryne",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "s information to Peter**\n\n### **2. Information Warfare Control Points - TOTAL CONTROL REVEALED**\n\n**Rynette Farrar has COMPLETE CONTROL:**\n- Controls the `Pete@regima.com` address (per OCR evidence)\n- Controls syst",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "eives emails sent to Pete@regima.com directly\n\n**OCR Revelation**: Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n**Evidence**: OCR Screenshot 2025-06-20 Sage Account system shows Rynette Farra",
+      "source": "case_2025_137857/01_court_documents/ocr-assumptions-update-report.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ynette Farrar, not Peter Faucitt\n\n**Evidence**: OCR Screenshot 2025-06-20 Sage Account system shows Rynette Farrar controls Pete@regima.com\n\n**Impact Areas**:\n- All email communications allegedly received by Peter",
+      "source": "case_2025_137857/01_court_documents/ocr-assumptions-update-report.md",
+      "weight": 10
+    },
+    {
+      "evidence": "*Update Reason**: OCR analysis of Sage Account screenshots reveals Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n---\n\n## \ud83d\udcca Address vs Actual Recipient Matrix\n\n### \ud83d\udd34 Communication Channel Contr",
+      "source": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "*Update Reason**: OCR analysis of Sage Account screenshots reveals Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n---\n\n## \ud83d\udcca Address vs Actual Recipient Matrix\n\n### \ud83d\udd34 Communication Channel Contr",
+      "source": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "eives emails sent to Pete@regima.com directly\n\n**OCR Revelation**: Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n**Evidence**: OCR Screenshot 2025-06-20 Sage Account system shows Rynette Farra",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-assumptions-update-report.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ynette Farrar, not Peter Faucitt\n\n**Evidence**: OCR Screenshot 2025-06-20 Sage Account system shows Rynette Farrar controls Pete@regima.com\n\n**Impact Areas**:\n- All email communications allegedly received by Peter",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-assumptions-update-report.md",
+      "weight": 10
+    },
+    {
+      "evidence": "*Update Reason**: OCR analysis of Sage Account screenshots reveals Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n\n---\n\n## \ud83d\udcca Address vs Actual Recipient Matrix\n\n### \ud83d\udd34 Communication Channel Contr",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "esn't handle finances)\n\n### 3. Email Control Structure\n- **FACT**: Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt\n- **EVIDENCE**: System access panel documentation\n- **IMPACT**: All emails to \"P",
+      "source": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+      "weight": 10
+    },
+    {
+      "evidence": "igned (medical testing)\n- **Legal Representation**: Withdrawn\n- **Financial Control**: Remains with Rynette Farrar\n\n## Required Evidence for Future Claims\n\nAny future accusations must include:\n1. Written documentat",
+      "source": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+      "weight": 10
+    },
+    {
+      "evidence": "\ud83d\udea8 NEW: OCR ANALYSIS REVEALS COMPLETE EMAIL HIJACKING\n**EXPLOSIVE DISCOVERY**: OCR analysis proves **Rynette Farrar controls the Pete@regima.com email address** - Peter Faucitt NEVER directly received emails to this",
+      "source": "case_2025_137857/02_evidence/evidence-thread-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "Peter Faucitt NEVER directly received emails to this address.\n\n**Critical OCR Evidence Line:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**See Full Analysis**: [OCR Em",
+      "source": "case_2025_137857/02_evidence/evidence-thread-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "this address.\n\n**Critical OCR Evidence Line:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**See Full Analysis**: [OCR Email CC Analysis - Critical Findings](ocr-email-",
+      "source": "case_2025_137857/02_evidence/evidence-thread-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "urt Order Assumption**: Peter Faucitt receives communications\n- **Evidence Reality**: Controlled by Rynette Farrar (OCR evidence)\n- **Verification Impact**: All email-based evidence compromised\n\n---\n\n## 4. LEGITIMA",
+      "source": "case_2025_137857/forensic_analysis/interdict_legitimacy_verification.md",
+      "weight": 10
+    },
+    {
+      "evidence": "\ud83d\udea8 NEW: OCR ANALYSIS REVEALS COMPLETE EMAIL HIJACKING\n**EXPLOSIVE DISCOVERY**: OCR analysis proves **Rynette Farrar controls the Pete@regima.com email address** - Peter Faucitt NEVER directly received emails to this",
+      "source": "case_2025_137857/01_court_documents/eviden-thread.md",
+      "weight": 10
+    },
+    {
+      "evidence": "Peter Faucitt NEVER directly received emails to this address.\n\n**Critical OCR Evidence Line:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**See Full Analysis**: [OCR Em",
+      "source": "case_2025_137857/01_court_documents/eviden-thread.md",
+      "weight": 10
+    },
+    {
+      "evidence": "this address.\n\n**Critical OCR Evidence Line:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**See Full Analysis**: [OCR Email CC Analysis - Critical Findings](ocr-email-",
+      "source": "case_2025_137857/01_court_documents/eviden-thread.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ar, not Peter Faucitt\n\n**EVIDENCE**: OCR Screenshot 2025-06-20 shows system access panel with:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**IMPLICATIONS**: \n- All email",
+      "source": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "shot 2025-06-20 shows system access panel with:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**IMPLICATIONS**: \n- All emails to Pete@regima.com are received by Rynette Fa",
+      "source": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "tte Farrar Pete@regima.com\"\n```\n\n**IMPLICATIONS**: \n- All emails to Pete@regima.com are received by Rynette Farrar\n- Peter Faucitt has no direct access to \"his\" email address\n- Any claim of Peter receiving emails d",
+      "source": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "**Issue**: Using \"Peter's\" name on email address controlled by Rynette\n- **Evidence**: System shows Rynette Farrar associated with Pete@regima.com\n- **Status**: Criminal charges applicable\n- **Action**: Investigate",
+      "source": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "Mapped\n```\nPete@regima.com -[nominal_ownership]-> Peter Faucitt\nPete@regima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[intercepted_by]-> Rynette Farrar\nRynette -[filters_info]-",
+      "source": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": ".com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[intercepted_by]-> Rynette Farrar\nRynette -[filters_info]-> Peter Faucitt\nPeter -[claims_direct_receipt]-> IMPOSSIBLE (perjury eviden",
+      "source": "case_2025_137857/01_court_documents/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "s\n\n**OCR Evidence**: System access panel shows:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- All emails to Pete@regima.com are received by Ry",
+      "source": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- All emails to Pete@regima.com are received by Rynette Farrar\n- Peter Faucitt has NO direct access to \"his\" email address\n- Peter receives only filtered/interpre",
+      "source": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "*: Peter not only doesn't use computers, but his apparent email address is completely controlled by Rynette Farrar - creating total information dependency.\n\n| Date | Event/Document/Action | Peter's Knowledge Level",
+      "source": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ring\n- Any claim of direct email receipt = **PERJURY** (impossible due to address hijacking)\n\n### \ud83d\udd35 RYNETTE FARRAR (INFORMATION CONTROLLER - Previously Underestimated)\n\n**\ud83d\udea8 NEW CRITICAL ROLE**: OCR reveals Rynette",
+      "source": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "**\n   - \u274c **CANNOT be directly received by Peter** (OCR proves impossible)\n   - \u2705 **All received by Rynette Farrar** (OCR confirms)\n   - \u26a0\ufe0f **Need to verify what Peter actually knew vs. what emails claimed**\n\n2. **",
+      "source": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ships:\n```\nPete@regima.com -[nominal_ownership]-> Peter Faucitt\nPete@regima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_in",
+      "source": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_info]-> Peter Faucitt\nPeter Faucitt -[claims_direct_receipt]-> IMPOSSIBLE",
+      "source": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "l_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_info]-> Peter Faucitt\nPeter Faucitt -[claims_direct_receipt]-> IMPOSSIBLE (perjury eviden",
+      "source": "case_2025_137857/01_court_documents/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "`linda@regima.zone`\n\n**RAW OCR EVIDENCE LINE:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**CRITICAL IMPLICATION**: Rynette Farrar controls BOTH her own email AND the",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "rrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**CRITICAL IMPLICATION**: Rynette Farrar controls BOTH her own email AND the `Pete@regima.com` address!\n\n**Key System Interface Text:**\n```",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ma.com` (appears to go to Peter Faucitt)\n- **BUT OCR PROVES**: `Pete@regima.com` is controlled by **Rynette Farrar**\n- Peter Faucitt may NEVER have directly received emails sent to `Pete@regima.com`\n- **Rynette Far",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ette Farrar**\n- Peter Faucitt may NEVER have directly received emails sent to `Pete@regima.com`\n- **Rynette Farrar receives ALL emails to both addresses and filters information to Peter**\n\n### **2. Information Warf",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "any.com, Pete@regima.com, danie@company.com\nREALITY: \u2192 All emails to Pete@regima.com go directly to Rynette Farrar\n          \u2192 Peter Faucitt receives ONLY what Rynette chooses to tell him\n          \u2192 Peter may not",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ed version (if anything)\nWHAT EMAIL CC SUGGESTS: Direct receipt by Peter Faucitt  \nWHAT OCR PROVES: Rynette Farrar receives and controls ALL \"Peter\" emails\nLEGAL IMPLICATION: Any claim of Peter receiving emails dir",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "**OCR PROVES**: These statements are **IMPOSSIBLE** because:\n- `Pete@regima.com` is controlled by Rynette Farrar (per OCR evidence)\n- Peter cannot receive emails to an address controlled by someone else\n- Any \"kn",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "er received the June 10 email directly\"\n**OCR REALITY**: Impossible - Pete@regima.com controlled by Rynette Farrar\n**LEGAL IMPACT**: Attorneys either knew of the hijacking (conspiracy) or failed due diligence\n\n---",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "rs directly\"\n\n**OCR EVIDENCE PROVES MUCH WORSE:**\n- System shows `Pete@regima.com` is controlled by Rynette Farrar\n- Any email sent to `Pete@regima.com` goes directly to Rynette\n- Peter cannot directly receive emai",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "\"Peter received email\"\n\n2. **Reality Level (What OCR Reveals):**\n   - Pete@regima.com controlled by Rynette Farrar (OCR proof)\n   - Peter CANNOT receive emails to address controlled by Rynette\n   - Information comp",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "-----|-------------------|--------------|\n| **Recipient** | Pete@regima.com | Address controlled by Rynette Farrar | Complete email hijacking |\n| **Access Method** | Direct email receipt | All Pete@ emails go to Ry",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "- COMPLETE EMAIL HIJACKING:**\n```\nDaniel Faucitt (Email Sender)\n    \u2193\nPete@regima.com (Hijacked by Rynette Farrar - OCR Proof)\n    \u2193\nRynette Farrar (Controls \"Peter's\" email address)\n    \u2193\nPeter Faucitt (Receives",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "Daniel Faucitt (Email Sender)\n    \u2193\nPete@regima.com (Hijacked by Rynette Farrar - OCR Proof)\n    \u2193\nRynette Farrar (Controls \"Peter's\" email address)\n    \u2193\nPeter Faucitt (Receives only filtered information, if any)",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "Address Hijacking\n\n**CASE IMPACT**: \n- Every email claimed to be received by Peter is IMPOSSIBLE\n- Rynette Farrar has complete control over \"Peter's\" email address\n- Identity theft charges for using Peter's name o",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "es that Peter Faucitt NEVER directly received any emails sent to Pete@regima.com - they all went to Rynette Farrar who controlled the address.\n\n---\n\n## \ud83d\udccb **NEXT STEPS FOR INVESTIGATION**\n\n1. **Subpoena Rynette's Em",
+      "source": "case_2025_137857/01_court_documents/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "August 19, 2025 - Peter granted control\n- **Email Evidence Invalid**: Pete@regima.com controlled by Rynette Farrar, not Peter Faucitt ([OCR Evidence](../03_analysis/ocr_analysis/))\n- **Victim Mischaracterization**:",
+      "source": "case_2025_137857/01_court_documents/court_order_2025_137857.md",
+      "weight": 10
+    },
+    {
+      "evidence": "s\n\n**OCR Evidence**: System access panel shows:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- All emails to Pete@regima.com are received by Ry",
+      "source": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- All emails to Pete@regima.com are received by Rynette Farrar\n- Peter Faucitt has NO direct access to \"his\" email address\n- Peter receives only filtered/interpre",
+      "source": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "*: Peter not only doesn't use computers, but his apparent email address is completely controlled by Rynette Farrar - creating total information dependency.\n\n| Date | Event/Document/Action | Peter's Knowledge Level",
+      "source": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ring\n- Any claim of direct email receipt = **PERJURY** (impossible due to address hijacking)\n\n### \ud83d\udd35 RYNETTE FARRAR (INFORMATION CONTROLLER - Previously Underestimated)\n\n**\ud83d\udea8 NEW CRITICAL ROLE**: OCR reveals Rynette",
+      "source": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "**\n   - \u274c **CANNOT be directly received by Peter** (OCR proves impossible)\n   - \u2705 **All received by Rynette Farrar** (OCR confirms)\n   - \u26a0\ufe0f **Need to verify what Peter actually knew vs. what emails claimed**\n\n2. **",
+      "source": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ships:\n```\nPete@regima.com -[nominal_ownership]-> Peter Faucitt\nPete@regima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_in",
+      "source": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_info]-> Peter Faucitt\nPeter Faucitt -[claims_direct_receipt]-> IMPOSSIBLE",
+      "source": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "l_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_info]-> Peter Faucitt\nPeter Faucitt -[claims_direct_receipt]-> IMPOSSIBLE (perjury eviden",
+      "source": "case_2025_137857/03_analysis/party_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ar, not Peter Faucitt\n\n**EVIDENCE**: OCR Screenshot 2025-06-20 shows system access panel with:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**IMPLICATIONS**: \n- All email",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "shot 2025-06-20 shows system access panel with:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**IMPLICATIONS**: \n- All emails to Pete@regima.com are received by Rynette Fa",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "tte Farrar Pete@regima.com\"\n```\n\n**IMPLICATIONS**: \n- All emails to Pete@regima.com are received by Rynette Farrar\n- Peter Faucitt has no direct access to \"his\" email address\n- Any claim of Peter receiving emails d",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "**Issue**: Using \"Peter's\" name on email address controlled by Rynette\n- **Evidence**: System shows Rynette Farrar associated with Pete@regima.com\n- **Status**: Criminal charges applicable\n- **Action**: Investigate",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "Mapped\n```\nPete@regima.com -[nominal_ownership]-> Peter Faucitt\nPete@regima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[intercepted_by]-> Rynette Farrar\nRynette -[filters_info]-",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": ".com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[intercepted_by]-> Rynette Farrar\nRynette -[filters_info]-> Peter Faucitt\nPeter -[claims_direct_receipt]-> IMPOSSIBLE (perjury eviden",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/comprehensive-ocr-assumptions-analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "s\n\n**OCR Evidence**: System access panel shows:\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- All emails to Pete@regima.com are received by Ry",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ar Pete@regima.com\"\n```\n\n**Critical Implications**:\n- All emails to Pete@regima.com are received by Rynette Farrar\n- Peter Faucitt has NO direct access to \"his\" email address\n- Peter receives only filtered/interpre",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "*: Peter not only doesn't use computers, but his apparent email address is completely controlled by Rynette Farrar - creating total information dependency.\n\n| Date | Event/Document/Action | Peter's Knowledge Level",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ring\n- Any claim of direct email receipt = **PERJURY** (impossible due to address hijacking)\n\n### \ud83d\udd35 RYNETTE FARRAR (INFORMATION CONTROLLER - Previously Underestimated)\n\n**\ud83d\udea8 NEW CRITICAL ROLE**: OCR reveals Rynette",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "**\n   - \u274c **CANNOT be directly received by Peter** (OCR proves impossible)\n   - \u2705 **All received by Rynette Farrar** (OCR confirms)\n   - \u26a0\ufe0f **Need to verify what Peter actually knew vs. what emails claimed**\n\n2. **",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ships:\n```\nPete@regima.com -[nominal_ownership]-> Peter Faucitt\nPete@regima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_in",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ima.com -[actual_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_info]-> Peter Faucitt\nPeter Faucitt -[claims_direct_receipt]-> IMPOSSIBLE",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "l_control]-> Rynette Farrar\nDaniel -[sends_email]-> Pete@regima.com -[received_by]-> Rynette Farrar\nRynette Farrar -[filters_info]-> Peter Faucitt\nPeter Faucitt -[claims_direct_receipt]-> IMPOSSIBLE (perjury eviden",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/party-knowledge-matrix-updated-ocr.md",
+      "weight": 10
+    },
+    {
+      "evidence": "`linda@regima.zone`\n\n**RAW OCR EVIDENCE LINE:**\n```\n\"Rynette Farrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**CRITICAL IMPLICATION**: Rynette Farrar controls BOTH her own email AND the",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "rrar rynette@regima.zone permissions Rynette Farrar Pete@regima.com\"\n```\n\n**CRITICAL IMPLICATION**: Rynette Farrar controls BOTH her own email AND the `Pete@regima.com` address!\n\n**Key System Interface Text:**\n```",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ma.com` (appears to go to Peter Faucitt)\n- **BUT OCR PROVES**: `Pete@regima.com` is controlled by **Rynette Farrar**\n- Peter Faucitt may NEVER have directly received emails sent to `Pete@regima.com`\n- **Rynette Far",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ette Farrar**\n- Peter Faucitt may NEVER have directly received emails sent to `Pete@regima.com`\n- **Rynette Farrar receives ALL emails to both addresses and filters information to Peter**\n\n### **2. Information Warf",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "any.com, Pete@regima.com, danie@company.com\nREALITY: \u2192 All emails to Pete@regima.com go directly to Rynette Farrar\n          \u2192 Peter Faucitt receives ONLY what Rynette chooses to tell him\n          \u2192 Peter may not",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ed version (if anything)\nWHAT EMAIL CC SUGGESTS: Direct receipt by Peter Faucitt  \nWHAT OCR PROVES: Rynette Farrar receives and controls ALL \"Peter\" emails\nLEGAL IMPLICATION: Any claim of Peter receiving emails dir",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "**OCR PROVES**: These statements are **IMPOSSIBLE** because:\n- `Pete@regima.com` is controlled by Rynette Farrar (per OCR evidence)\n- Peter cannot receive emails to an address controlled by someone else\n- Any \"kn",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "er received the June 10 email directly\"\n**OCR REALITY**: Impossible - Pete@regima.com controlled by Rynette Farrar\n**LEGAL IMPACT**: Attorneys either knew of the hijacking (conspiracy) or failed due diligence\n\n---",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "rs directly\"\n\n**OCR EVIDENCE PROVES MUCH WORSE:**\n- System shows `Pete@regima.com` is controlled by Rynette Farrar\n- Any email sent to `Pete@regima.com` goes directly to Rynette\n- Peter cannot directly receive emai",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "\"Peter received email\"\n\n2. **Reality Level (What OCR Reveals):**\n   - Pete@regima.com controlled by Rynette Farrar (OCR proof)\n   - Peter CANNOT receive emails to address controlled by Rynette\n   - Information comp",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "-----|-------------------|--------------|\n| **Recipient** | Pete@regima.com | Address controlled by Rynette Farrar | Complete email hijacking |\n| **Access Method** | Direct email receipt | All Pete@ emails go to Ry",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "- COMPLETE EMAIL HIJACKING:**\n```\nDaniel Faucitt (Email Sender)\n    \u2193\nPete@regima.com (Hijacked by Rynette Farrar - OCR Proof)\n    \u2193\nRynette Farrar (Controls \"Peter's\" email address)\n    \u2193\nPeter Faucitt (Receives",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "Daniel Faucitt (Email Sender)\n    \u2193\nPete@regima.com (Hijacked by Rynette Farrar - OCR Proof)\n    \u2193\nRynette Farrar (Controls \"Peter's\" email address)\n    \u2193\nPeter Faucitt (Receives only filtered information, if any)",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "Address Hijacking\n\n**CASE IMPACT**: \n- Every email claimed to be received by Peter is IMPOSSIBLE\n- Rynette Farrar has complete control over \"Peter's\" email address\n- Identity theft charges for using Peter's name o",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "es that Peter Faucitt NEVER directly received any emails sent to Pete@regima.com - they all went to Rynette Farrar who controlled the address.\n\n---\n\n## \ud83d\udccb **NEXT STEPS FOR INVESTIGATION**\n\n1. **Subpoena Rynette's Em",
+      "source": "case_2025_137857/03_analysis/ocr_analysis/ocr-email-cc-analysis-critical-findings.md",
+      "weight": 10
+    },
+    {
+      "evidence": "dence only (10x weight)\n\n**Critical Context**: \n- Jacqui Faucitt does NOT handle finances\n- No evidence of financial wrongdoing by Jacqui\n- R500k was Daniel's director's loan, not a gift from Jacqui\n- **CRUCIAL**: Danie Bantjies owes BOTH Peter & Jacqui R10M+ (due April 2026)\n- Fighting each other risks t",
+      "source": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ole, does NOT handle finances\n- **Peter Faucitt**: \n  - Status: Locked out of own accounts by bookkeeper\n  - Access: NONE (even to his own funds)\n- **Daniel Faucitt**: Company owner with legal right to director's loans\n\n### Documented Facts vs False Claims\n- **FALSE**: \"Jacqui gave R500k to Daniel\" \u2192 **TR",
+      "source": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ds)\n- **Daniel Faucitt**: Company owner with legal right to director's loans\n\n### Documented Facts vs False Claims\n- **FALSE**: \"Jacqui gave R500k to Daniel\" \u2192 **TRUTH**: Director's loan from Daniel's own company\n- **FALSE**: \"Peter stole Kayla's money\" \u2192 **TRUTH**: Impossible - only Rynette has account a",
+      "source": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+      "weight": 10
+    },
+    {
+      "evidence": "th legal right to director's loans\n\n### Documented Facts vs False Claims\n- **FALSE**: \"Jacqui gave R500k to Daniel\" \u2192 **TRUTH**: Director's loan from Daniel's own company\n- **FALSE**: \"Peter stole Kayla's money\" \u2192 **TRUTH**: Impossible - only Rynette has account access\n- **FALSE**: \"Unauthorized transfer\"",
+      "source": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+      "weight": 10
+    },
+    {
+      "evidence": "y (10x weight)\n\n**Critical Context**: \n- Jacqui Faucitt does NOT handle finances\n- No evidence of financial wrongdoing by Jacqui\n- R500k was Daniel's director's loan, not a gift from Jacqui\n- **CRUCIAL**: Danie Bantjies owes BOTH Peter & Jacqui R10M+ (due April 2026)\n- Fighting each other risks their joint R10M co",
+      "source": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+      "weight": 10
+    },
+    {
+      "evidence": "- Status: Locked out of own accounts by bookkeeper\n  - Access: NONE (even to his own funds)\n- **Daniel Faucitt**: Company owner with legal right to director's loans\n\n### Documented Facts vs False Claims\n- **FALSE**: \"Jacqui gave R500k to Daniel\" \u2192 **TRUTH**: Director's loan from Daniel's own company\n- **FALSE**:",
+      "source": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+      "weight": 10
+    },
+    {
+      "evidence": "t**: Company owner with legal right to director's loans\n\n### Documented Facts vs False Claims\n- **FALSE**: \"Jacqui gave R500k to Daniel\" \u2192 **TRUTH**: Director's loan from Daniel's own company\n- **FALSE**: \"Peter stole Kayla's money\" \u2192 **TRUTH**: Impossible - only Rynette has account access\n- **FALSE**: \"Unauthoriz",
+      "source": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+      "weight": 10
+    },
+    {
+      "evidence": "mented evidence only (10x weight)\n\n**Critical Context**: \n- Jacqui Faucitt does NOT handle finances\n- No evidence of financial wrongdoing by Jacqui\n- R500k was Daniel's director's loan, not a gift from Jacqui\n- **CRUCIAL**: Danie Bantjies owes BOTH Peter & Jacqui R10M+ (due April 2026)\n- Fighting each o",
+      "source": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+      "weight": 10
+    },
+    {
+      "evidence": "s own funds)\n- **Daniel Faucitt**: Company owner with legal right to director's loans\n\n### Documented Facts vs False Claims\n- **FALSE**: \"Jacqui gave R500k to Daniel\" \u2192 **TRUTH**: Director's loan from Daniel's own company\n- **FALSE**: \"Peter stole Kayla's money\" \u2192 **TRUTH**: Impossible - only Rynette ha",
+      "source": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ditors, they should cooperate, not fight\n- Their conflict only benefits Rynette (maintains control) and possibly Bantjies\n\n### Evidence-Based Facts\n- Daniel's R500k was a legitimate director's loan (NOT a gift from Jacqui)\n- Jacqui does NOT handle finances - no wrongdoing possible\n- Peter CANNOT have stol",
+      "source": "case_2025_137857/CASE_SUMMARY_UPDATED.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ot fight\n- Their conflict only benefits Rynette (maintains control) and possibly Bantjies\n\n### Evidence-Based Facts\n- Daniel's R500k was a legitimate director's loan (NOT a gift from Jacqui)\n- Jacqui does NOT handle finances - no wrongdoing possible\n- Peter CANNOT have stolen money - he has no access\n\n## Document",
+      "source": "case_2025_137857/CASE_SUMMARY_UPDATED.md",
+      "weight": 10
+    },
+    {
+      "evidence": "hey should cooperate, not fight\n- Their conflict only benefits Rynette (maintains control) and possibly Bantjies\n\n### Evidence-Based Facts\n- Daniel's R500k was a legitimate director's loan (NOT a gift from Jacqui)\n- Jacqui does NOT handle finances - no wrongdoing possible\n- Peter CANNOT have stolen mone",
+      "source": "case_2025_137857/CASE_SUMMARY_UPDATED.md",
+      "weight": 10
+    },
+    {
+      "evidence": "r's loan on July 16, 2025\n- **CONTEXT**: Company cards were secretly cancelled on June 7, 2025\n- **REASON**: Daniel was paying company creditors from personal account for 6 weeks\n- **PURPOSE**: Maintain business operations and reimburse personal expenditures\n- **LEGITIMACY**: Legal right as company owner; documente",
+      "source": "case_2025_137857/EVIDENCE_BASED_CASE_SUMMARY.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records prove legitimate business expenses, not gambling/porn as alleged\n\n6. **Peter's Rush t",
+      "source": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "el submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records prove legitimate business expenses, not gambling/porn",
+      "source": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ambling and porn. I immediately submitted bank statements proving these were legitimate company expenses paid from my personal account due to company cards being cancelled 6 weeks earlier. Despite this clear evidence, Peter continues rushing toward forced medical testing, proving it was never about legitimate concern",
+      "source": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "tatement Defense:**\n   - Daniel submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records prove legitimate business expe",
+      "source": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "egations that I spent money on gambling and porn. I immediately submitted bank statements proving these were legitimate company expenses paid from my personal account due to company cards being cancelled 6 weeks earlier. Despite this clear evidence, Peter continues rushing toward forced medical testing, proving it",
+      "source": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "esting\n\n5. **Daniel's Bank Statement Defense:**\n   - Daniel submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records pr",
+      "source": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "---\n\n## TIMELINE OF CRITICAL EVENTS\n\n```\nJune 2025:      Accountant discovers discrepancies\n                Cards cancelled by Peter\n\nJuly 16, 2025:  R500,000 unauthorized transfer\nJuly 25, 2025:  Duplicate cards obtained\n\nAugust 5, 2025: Exchange control warning\nAugust 14, 2025: Application filed\nAugus",
+      "source": "case_2025_137857/forensic_analysis/executive_summary_report.md",
+      "weight": 10
+    },
+    {
+      "evidence": "Discovery of financial discrepancies begins\n\n**June 2025**\n- Applicant cancels all business bank cards\n- Requests invoices and proof of expenses from Daniel\n- Business disruptions begin (domains, subscriptions halted)\n\n**July 2025**\n- Bantjes identifies numerous irregular payments\n- First Respondent obtai",
+      "source": "case_2025_137857/forensic_analysis/interdict_forensic_analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ral Red Flags\n1. **Obstruction**: Refusal to provide documentation\n2. **Retaliation**: Denial of email access to staff\n3. **Defiance**: Obtaining new cards after cancellation\n4. **Enabling**: Mother protecting son, making unauthorized payment\n5. **Escalation**: R500,000 transfer after confrontation\n\n### Control Envir",
+      "source": "case_2025_137857/forensic_analysis/interdict_forensic_analysis.md",
+      "weight": 10
+    },
+    {
+      "evidence": "and transparency by Dan\n- **Framework Phase:** Pre-Investigation (documentation and transparency before discovery)\n\n### **JUNE 7, 2025**\n**Worldwide Cards Cancelled:**\n- Mass cancellation of financial access cards\n- Systematic cutting off of financial resources\n- Coordinated attack on victim's financial access",
+      "source": "case_2025_137857/01_court_documents/APR-SEP-2025.md",
+      "weight": 10
+    },
+    {
+      "evidence": "2025 | Documentation & Transparency | Dan emails comprehensive reports to Bantjies | Pre-Investigation |\n| June 7, 2025 | Financial Control Seizure | Cards cancelled systematically | Pre-Investigation |\n| June 8, 2025 | Business Sabotage Discovery | Shopify orders stopped, audit trail missing | Pre-Investigatio",
+      "source": "case_2025_137857/01_court_documents/APR-SEP-2025.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ily member | Pre-Investigation |\n| June 6, 2025 | Documentation & Transparency | Dan emails comprehensive reports to Bantjies | Pre-Investigation |\n| June 7, 2025 | Financial Control Seizure | Cards cancelled systematically | Pre-Investigation |\n| June 8, 2025 | Business Sabotage Discovery | Shopify orders stopped, audit trail missing | Pre-Investigatio",
+      "source": "case_2025_137857/01_court_documents/APR-SEP-2025.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records prove legitimate business expenses, not gambling/porn as alleged\n\n6. **Peter's Rush t",
+      "source": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "el submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records prove legitimate business expenses, not gambling/porn",
+      "source": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ambling and porn. I immediately submitted bank statements proving these were legitimate company expenses paid from my personal account due to company cards being cancelled 6 weeks earlier. Despite this clear evidence, Peter continues rushing toward forced medical testing, proving it was never about legitimate concern",
+      "source": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "tatement Defense:**\n   - Daniel submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records prove legitimate business expe",
+      "source": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "egations that I spent money on gambling and porn. I immediately submitted bank statements proving these were legitimate company expenses paid from my personal account due to company cards being cancelled 6 weeks earlier. Despite this clear evidence, Peter continues rushing toward forced medical testing, proving it",
+      "source": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "esting\n\n5. **Daniel's Bank Statement Defense:**\n   - Daniel submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to card cancellations 6 weeks earlier, Daniel was forced to pay company expenses personally\n   - Bank records pr",
+      "source": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "and transparency by Dan\n- **Framework Phase:** Pre-Investigation (documentation and transparency before discovery)\n\n### **JUNE 7, 2025**\n**Worldwide Cards Cancelled:**\n- Mass cancellation of financial access cards\n- Systematic cutting off of financial resources\n- Coordinated attack on victim's financial access",
+      "source": "case_2025_137857/01_court_documents/APR-SEP-2025 (1).md",
+      "weight": 10
+    },
+    {
+      "evidence": "2025 | Documentation & Transparency | Dan emails comprehensive reports to Bantjies | Pre-Investigation |\n| June 7, 2025 | Financial Control Seizure | Cards cancelled systematically | Pre-Investigation |\n| June 8, 2025 | Business Sabotage Discovery | Shopify orders stopped, audit trail missing | Pre-Investigatio",
+      "source": "case_2025_137857/01_court_documents/APR-SEP-2025 (1).md",
+      "weight": 10
+    },
+    {
+      "evidence": "ily member | Pre-Investigation |\n| June 6, 2025 | Documentation & Transparency | Dan emails comprehensive reports to Bantjies | Pre-Investigation |\n| June 7, 2025 | Financial Control Seizure | Cards cancelled systematically | Pre-Investigation |\n| June 8, 2025 | Business Sabotage Discovery | Shopify orders stopped, audit trail missing | Pre-Investigatio",
+      "source": "case_2025_137857/01_court_documents/APR-SEP-2025 (1).md",
+      "weight": 10
+    },
+    {
+      "evidence": "and transparency by Dan\n- **Framework Phase:** Pre-Investigation (documentation and transparency before discovery)\n\n### **JUNE 7, 2025**\n**Worldwide Cards Cancelled:**\n- Mass cancellation of financial access cards\n- Systematic cutting off of financial resources\n- Coordinated attack on victim's financial access",
+      "source": "case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md",
+      "weight": 10
+    },
+    {
+      "evidence": "2025 | Documentation & Transparency | Dan emails comprehensive reports to Bantjies | Pre-Investigation |\n| June 7, 2025 | Financial Control Seizure | Cards cancelled systematically | Pre-Investigation |\n| June 8, 2025 | Business Sabotage Discovery | Shopify orders stopped, audit trail missing | Pre-Investigatio",
+      "source": "case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ily member | Pre-Investigation |\n| June 6, 2025 | Documentation & Transparency | Dan emails comprehensive reports to Bantjies | Pre-Investigation |\n| June 7, 2025 | Financial Control Seizure | Cards cancelled systematically | Pre-Investigation |\n| June 8, 2025 | Business Sabotage Discovery | Shopify orders stopped, audit trail missing | Pre-Investigatio",
+      "source": "case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md",
+      "weight": 10
+    },
+    {
+      "evidence": "penses were legitimate company costs\n   - Shows Peter is rushing past evidence to force medical testing\n\n5. **Daniel's Bank Statement Defense:**\n   - Daniel submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to ca",
+      "source": "case_2025_137857/05_medical_records/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "penses were legitimate company costs\n   - Shows Peter is rushing past evidence to force medical testing\n\n5. **Daniel's Bank Statement Defense:**\n   - Daniel submitted comprehensive bank statements to ENS\n   - Statements clearly show expenses were company creditors paid from personal account\n   - Due to ca",
+      "source": "case_2025_137857/01_court_documents/MED-COERCIVE.md",
+      "weight": 10
+    },
+    {
+      "evidence": "ensive bank statements to ENS proving expenses were legitimate company costs\n- Bank statements clearly show expenses were company creditors paid from Daniel's personal account\n- Demonstrates Peter is rushing past contradictory evidence to force medical testing\n- **Legal Significance:** Perjury, malicious",
+      "source": "case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md",
+      "weight": 10
+    },
+    {
+      "evidence": "nk statements to ENS proving expenses were legitimate company costs\n- Bank statements clearly show expenses were company creditors paid from Daniel's personal account\n- Demonstrates Peter is rushing past contradictory evidence to force medical testing\n- **Legal Significance:** Perjury, malicious prosecution, defama",
+      "source": "case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md",
+      "weight": 10
+    },
+    {
+      "evidence": "TER Daniel submitted comprehensive bank statements to ENS proving expenses were legitimate company costs\n- Bank statements clearly show expenses were company creditors paid from Daniel's personal account\n- Demonstrates Peter is rushing past contradictory evidence to force medical testing\n- **Legal Significance:** P",
+      "source": "case_2025_137857/03_analysis/timeline_analysis/APR-SEP-2025.md",
+      "weight": 10
+    },
+    {
+      "evidence": "zed \"Birthday Gift\": R500,000.00\n\n**Monthly Burn Rate**: ~R350,000 (escalating)\n\n### 2. Primary Actors & Roles\n\n**Peter Faucitt (Applicant)**\n- Role: Founder/Director seeking to protect corporate assets\n- Position: Reactive discovery of misconduct\n- Strength: Documentary evidence holder\n\n**Jacqueline Fauci",
+      "source": "case_2025_137857/forensic_analysis/executive_summary_report.md",
+      "weight": 10
+    }
+  ],
+  "ocr_revelations": {
+    "critical_finding": {
+      "fact": "Pete@regima.com is controlled by Rynette Farrar, not Peter Faucitt",
+      "evidence_source": "OCR Screenshot 2025-06-20 Sage Account system",
+      "legal_implications": [
+        "Identity theft charges - using Peter's name on hijacked address",
+        "Perjury evidence - any Peter claims of direct email receipt are impossible",
+        "Information warfare - systematic email interception and filtering"
+      ],
+      "impact": "Invalidates all assumptions about Peter receiving emails directly",
+      "weight": 10,
+      "verification_status": "OCR_VERIFIED"
+    },
+    "evidence_strength": "MAXIMUM - System screenshot verification",
+    "legal_impact": {
+      "identity_theft": {
+        "charge_basis": "Use of Peter Faucitt's name on email address controlled by Rynette Farrar",
+        "evidence": "OCR Screenshot showing Rynette Farrar permissions for Pete@regima.com",
+        "strength": "STRONG - Direct system evidence"
+      },
+      "perjury": {
+        "charge_basis": "Any claims by Peter of directly receiving emails to Pete@regima.com",
+        "evidence": "OCR proves Peter has no access to the email address",
+        "strength": "CRITICAL - Makes direct receipt claims impossible"
+      },
+      "information_warfare": {
+        "charge_basis": "Systematic interception and filtering of communications",
+        "evidence": "All Peter's emails filtered through Rynette's control",
+        "strength": "STRONG - Pattern of information control documented"
+      }
+    },
+    "case_impact": {
+      "evidence_invalidation": [
+        "All timeline entries showing Peter 'receiving' emails directly",
+        "Any court affidavits claiming Peter received emails to Pete@regima.com",
+        "Knowledge attribution based on direct email receipt"
+      ],
+      "verification_requirements": [
+        "Review all Peter's statements about email receipt for perjury evidence",
+        "Verify what Peter actually knew vs. what Rynette told him",
+        "Investigate how Pete@regima.com was created and registered"
+      ],
+      "strategic_advantages": [
+        "Provides concrete evidence of deception in communication patterns",
+        "Creates perjury evidence against opposition claims",
+        "Demonstrates systematic information control by Rynette Farrar"
+      ]
+    },
+    "weight_assessment": {
+      "evidence_type": "HARD_EVIDENCE - System screenshot",
+      "weight_multiplier": 10,
+      "reliability": "MAXIMUM - OCR verified system data",
+      "legal_standing": "ADMISSIBLE - Business records exception"
+    }
+  },
+  "summary_statistics": {
+    "ocr_evidence": {
+      "critical_findings": 1,
+      "maximum_weight_evidence": 1,
+      "legal_charges_supported": 3,
+      "evidence_items_invalidated": "Multiple timeline and affidavit entries"
+    }
+  },
+  "overall_assessment": {
+    "ocr_impact": "OCR revelations provide critical hard evidence that fundamentally changes the case by proving systematic email interception and creating perjury evidence against any claims of direct email receipt by Peter Faucitt."
+  }
+}
