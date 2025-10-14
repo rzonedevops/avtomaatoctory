@@ -41,3 +41,7 @@ pyflakes>=3.4.0,<4.0.0
 # scikit-learn>=1.0.0,<2.0.0
 # xgboost>=1.7.0,<2.0.0
 # pandas>=1.5.0,<2.0.0
+pandas
+psycopg2-binary
+supabase
+werkzeug
