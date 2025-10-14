@@ -6,9 +6,12 @@ Provides improved database synchronization with better error handling,
 rollback capabilities, and comprehensive logging.
 """
 
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+
 import json
 import logging
-import os
 from contextlib import contextmanager
 from datetime import datetime
 from typing import Dict, List, Optional, Tuple

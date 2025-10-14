@@ -9,10 +9,16 @@ import json
 import logging
 import os
 import re
+import sys
 from dataclasses import asdict, dataclass
 from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
+
+# Add parent directory to path for imports
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+
+from src.exceptions import EvidenceError, ValidationError
 
 logger = logging.getLogger(__name__)
 
@@ -139,9 +145,14 @@ class EvidenceProcessor:
             logger.info(f"  - Timeline events: {len(events)}")
             logger.info(f"  - Compliance violations: {len(violations)}")
 
-        except Exception as e:
-            logger.error(f"Error processing evidence {evidence_id}: {e}")
+        except EvidenceError as e:
+            logger.error(f"Evidence processing error for {evidence_id}: {e}")
             metadata.processing_status = "failed"
+            metadata.description = str(e)
+        except Exception as e:
+            logger.error(f"Unexpected error processing evidence {evidence_id}: {e}")
+            metadata.processing_status = "failed"
+            metadata.description = f"Unexpected error: {e}"
 
         self.processed_evidence.append(metadata)
         return metadata
@@ -164,7 +175,11 @@ class EvidenceProcessor:
         logger.info(f"Found {len(evidence_files)} evidence files")
 
         for file_path in evidence_files:
-            self.process_evidence_file(str(file_path))
+            try:
+                self.process_evidence_file(str(file_path))
+            except Exception as e:
+                logger.error(f"Failed to process file {file_path}: {e}")
+                # Optionally, create a failed metadata entry here if not already handled
 
         return self.processed_evidence
 
@@ -200,16 +215,16 @@ class EvidenceProcessor:
         elif file_path.suffix == ".pdf":
             # Would use PyPDF2 or pdfplumber in production
             logger.warning(f"PDF extraction not implemented: {file_path}")
-            return ""
+            raise EvidenceError(f"PDF extraction not implemented for {file_path}")
 
         elif file_path.suffix in [".doc", ".docx"]:
             # Would use python-docx in production
             logger.warning(f"Word document extraction not implemented: {file_path}")
-            return ""
+            raise EvidenceError(f"Word document extraction not implemented for {file_path}")
 
         else:
             logger.warning(f"Unsupported file type: {file_path.suffix}")
-            return ""
+            raise EvidenceError(f"Unsupported file type: {file_path.suffix}")
 
     def _extract_entities(self, text: str, evidence_id: str) -> List[ExtractedEntity]:
         """
