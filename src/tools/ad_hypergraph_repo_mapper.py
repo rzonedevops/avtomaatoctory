@@ -235,52 +235,161 @@ class ADHypergraphRepoMapper:
         if entities_path.exists():
             entities.extend(self._load_entities_from_folder(entities_path, repo_key))
             
-        # Look for other entity files
-        for file_path in repo_info.local_path.rglob("*.json"):
-            if "entities" in file_path.name.lower() and file_path.parent != entities_path:
-                entities.extend(self._load_entities_from_file(file_path, repo_key))
-                
+        # Look for other entity files (JSON, markdown, etc.)
+        for pattern in ["*.json", "*.md", "*.txt"]:
+            for file_path in repo_info.local_path.rglob(pattern):
+                if "entities" in file_path.name.lower() and file_path.parent != entities_path:
+                    if file_path.suffix == ".json":
+                        entities.extend(self._load_entities_from_file(file_path, repo_key))
+                    elif file_path.suffix == ".md":
+                        entities.extend(self._load_entities_from_markdown(file_path, repo_key))
+                        
         return entities
 
     def _load_entities_from_folder(self, entities_path: Path, repo_key: str) -> List[HyperGraphQLNode]:
         """Load entities from standard entities folder structure"""
         entities = []
         
-        for entity_type_folder in entities_path.iterdir():
-            if not entity_type_folder.is_dir():
-                continue
+        # Handle both subdirectory structure and flat structure
+        for item in entities_path.iterdir():
+            if item.is_dir():
+                # Subdirectory structure (entities/persons/, entities/organizations/)
+                entity_type = self._determine_entity_type(item.name)
                 
-            # Determine entity type
-            try:
-                entity_type = EntityTypeQL[entity_type_folder.name.upper().rstrip('S')]
-            except KeyError:
-                entity_type = EntityTypeQL.AGENT  # Default
-                
-            for entity_file in entity_type_folder.glob("*.json"):
-                try:
-                    with open(entity_file, 'r') as f:
-                        data = json.load(f)
-                        
-                    node = HyperGraphQLNode(
-                        id=f"{repo_key}:{data.get('id', entity_file.stem)}",
-                        node_type=entity_type,
-                        name=data.get('name', entity_file.stem),
-                        properties=data.get('properties', {}),
-                        org_level=OrgLevel.ENTERPRISE,
-                        repo_path=str(entities_path.parent),
-                        folder_path=str(entity_file.relative_to(entities_path.parent)),
-                        metadata={
-                            **data.get('metadata', {}),
-                            'source_repo': repo_key,
-                            'source_file': str(entity_file)
-                        }
-                    )
-                    entities.append(node)
-                    
-                except Exception as e:
-                    logger.error(f"Error loading entity from {entity_file}: {e}")
+                for pattern in ["*.json", "*.md"]:
+                    for entity_file in item.glob(pattern):
+                        try:
+                            if entity_file.suffix == ".json":
+                                with open(entity_file, 'r') as f:
+                                    data = json.load(f)
+                                node = self._create_node_from_data_with_type(data, entity_type, repo_key, entity_file)
+                            elif entity_file.suffix == ".md":
+                                node = self._create_node_from_markdown_with_type(entity_file, entity_type, repo_key)
+                            else:
+                                continue
+                            entities.append(node)
+                        except Exception as e:
+                            logger.error(f"Error loading entity from {entity_file}: {e}")
+            else:
+                # Flat structure (entities/person.json, entities/person_123.md)
+                if item.suffix in [".json", ".md"]:
+                    try:
+                        entity_type = self._determine_entity_type(item.stem)
+                        if item.suffix == ".json":
+                            with open(item, 'r') as f:
+                                data = json.load(f)
+                            node = self._create_node_from_data_with_type(data, entity_type, repo_key, item)
+                        elif item.suffix == ".md":
+                            node = self._create_node_from_markdown_with_type(item, entity_type, repo_key)
+                        else:
+                            continue
+                        entities.append(node)
+                    except Exception as e:
+                        logger.error(f"Error loading entity from {item}: {e}")
                     
         return entities
+
+    def _determine_entity_type(self, name: str) -> EntityTypeQL:
+        """Determine entity type from folder/file name"""
+        name_lower = name.lower()
+        
+        # Map common terms to entity types
+        type_mappings = {
+            'person': EntityTypeQL.PERSON,
+            'people': EntityTypeQL.PERSON,
+            'persons': EntityTypeQL.PERSON,
+            'organization': EntityTypeQL.ORGANIZATION,
+            'organizations': EntityTypeQL.ORGANIZATION,
+            'company': EntityTypeQL.ORGANIZATION,
+            'companies': EntityTypeQL.ORGANIZATION,
+            'event': EntityTypeQL.EVENT,
+            'events': EntityTypeQL.EVENT,
+            'evidence': EntityTypeQL.EVIDENCE,
+            'location': EntityTypeQL.LOCATION,
+            'locations': EntityTypeQL.LOCATION,
+            'document': EntityTypeQL.DOCUMENT,
+            'documents': EntityTypeQL.DOCUMENT,
+            'transaction': EntityTypeQL.TRANSACTION,
+            'transactions': EntityTypeQL.TRANSACTION,
+            'agent': EntityTypeQL.AGENT,
+            'agents': EntityTypeQL.AGENT,
+        }
+        
+        # Check for exact matches first
+        if name_lower in type_mappings:
+            return type_mappings[name_lower]
+            
+        # Check for partial matches
+        for key, entity_type in type_mappings.items():
+            if key in name_lower:
+                return entity_type
+                
+        return EntityTypeQL.AGENT  # Default
+
+    def _load_entities_from_markdown(self, file_path: Path, repo_key: str) -> List[HyperGraphQLNode]:
+        """Load entities from markdown files"""
+        entities = []
+        
+        try:
+            # Simple markdown entity extraction
+            entity_type = self._determine_entity_type(file_path.stem)
+            node = self._create_node_from_markdown_with_type(file_path, entity_type, repo_key)
+            entities.append(node)
+        except Exception as e:
+            logger.error(f"Error loading entity from markdown {file_path}: {e}")
+            
+        return entities
+
+    def _create_node_from_data_with_type(self, data: Dict, entity_type: EntityTypeQL, repo_key: str, file_path: Path) -> HyperGraphQLNode:
+        """Create HyperGraphQLNode from data with specified type"""
+        return HyperGraphQLNode(
+            id=f"{repo_key}:{data.get('id', file_path.stem)}",
+            node_type=entity_type,
+            name=data.get('name', file_path.stem),
+            properties=data.get('properties', {}),
+            org_level=OrgLevel.ENTERPRISE,
+            repo_path=str(file_path.parent),
+            folder_path=str(file_path.name),
+            metadata={
+                **data.get('metadata', {}),
+                'source_repo': repo_key,
+                'source_file': str(file_path),
+                'source_type': 'json'
+            }
+        )
+
+    def _create_node_from_markdown_with_type(self, file_path: Path, entity_type: EntityTypeQL, repo_key: str) -> HyperGraphQLNode:
+        """Create HyperGraphQLNode from markdown file with specified type"""
+        # Read markdown content for properties
+        properties = {}
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+                properties['content'] = content[:500]  # Store first 500 chars
+                properties['file_size'] = len(content)
+                
+                # Extract title from first line if it's a heading
+                lines = content.split('\n')
+                if lines and lines[0].startswith('#'):
+                    properties['title'] = lines[0].strip('#').strip()
+                    
+        except Exception as e:
+            logger.warning(f"Could not read content from {file_path}: {e}")
+            
+        return HyperGraphQLNode(
+            id=f"{repo_key}:{file_path.stem}",
+            node_type=entity_type,
+            name=properties.get('title', file_path.stem),
+            properties=properties,
+            org_level=OrgLevel.ENTERPRISE,
+            repo_path=str(file_path.parent),
+            folder_path=str(file_path.name),
+            metadata={
+                'source_repo': repo_key,
+                'source_file': str(file_path),
+                'source_type': 'markdown'
+            }
+        )
 
     def _load_entities_from_file(self, file_path: Path, repo_key: str) -> List[HyperGraphQLNode]:
         """Load entities from a single JSON file"""
@@ -352,11 +461,79 @@ class ADHypergraphRepoMapper:
         if relations_path.exists():
             relations.extend(self._load_relations_from_folder(relations_path, repo_key))
             
-        # Look for other relation files
-        for file_path in repo_info.local_path.rglob("*.json"):
-            if "relations" in file_path.name.lower() and file_path.parent != relations_path:
-                relations.extend(self._load_relations_from_file(file_path, repo_key))
+        # Look for relation files in various formats
+        for pattern in ["*.json", "*.md"]:
+            for file_path in repo_info.local_path.rglob(pattern):
+                if "relations" in file_path.name.lower() and file_path.parent != relations_path:
+                    if file_path.suffix == ".json":
+                        relations.extend(self._load_relations_from_file(file_path, repo_key))
+                        
+        # Also extract implicit relations from entity connections
+        relations.extend(self._extract_implicit_relations(repo_info, repo_key))
                 
+        return relations
+
+    def _extract_implicit_relations(self, repo_info: RepositoryInfo, repo_key: str) -> List[HyperGraphQLEdge]:
+        """Extract implicit relations from file patterns and content analysis"""
+        relations = []
+        
+        try:
+            # Look for timeline files that might contain relationships
+            for pattern in ["*.json", "*timeline*.md", "*analysis*.json"]:
+                for file_path in repo_info.local_path.rglob(pattern):
+                    if any(keyword in file_path.name.lower() for keyword in 
+                           ["timeline", "analysis", "connection", "relationship"]):
+                        # Extract relations from content
+                        if file_path.suffix == ".json":
+                            try:
+                                with open(file_path, 'r') as f:
+                                    data = json.load(f)
+                                # Look for relationship patterns in JSON
+                                relations.extend(self._extract_relations_from_json_data(data, repo_key, file_path))
+                            except Exception as e:
+                                logger.debug(f"Could not parse {file_path} for relations: {e}")
+                                
+        except Exception as e:
+            logger.debug(f"Error extracting implicit relations from {repo_key}: {e}")
+            
+        return relations
+
+    def _extract_relations_from_json_data(self, data: Any, repo_key: str, file_path: Path) -> List[HyperGraphQLEdge]:
+        """Extract relations from JSON data structure"""
+        relations = []
+        
+        try:
+            if isinstance(data, dict):
+                # Look for explicit relations arrays
+                if 'relations' in data and isinstance(data['relations'], list):
+                    for rel_data in data['relations']:
+                        if isinstance(rel_data, dict) and 'source' in rel_data:
+                            relation = self._create_edge_from_data(rel_data, repo_key, file_path)
+                            relations.append(relation)
+                            
+                # Look for connection patterns
+                for key, value in data.items():
+                    if key in ['connects', 'links', 'references', 'related_to'] and isinstance(value, list):
+                        for target in value:
+                            relation = HyperGraphQLEdge(
+                                id=f"{repo_key}:{file_path.stem}_{key}_{len(relations)}",
+                                edge_type=RelationTypeQL.RELATED_TO,
+                                source_id=f"{repo_key}:{file_path.stem}",
+                                target_ids=[f"{repo_key}:{target}"],
+                                strength=0.5,
+                                properties={'extracted_from': key},
+                                org_level=OrgLevel.ENTERPRISE,
+                                metadata={
+                                    'source_repo': repo_key,
+                                    'source_file': str(file_path),
+                                    'extraction_method': 'implicit'
+                                }
+                            )
+                            relations.append(relation)
+                            
+        except Exception as e:
+            logger.debug(f"Error extracting relations from JSON data in {file_path}: {e}")
+            
         return relations
 
     def _load_relations_from_folder(self, relations_path: Path, repo_key: str) -> List[HyperGraphQLEdge]:
