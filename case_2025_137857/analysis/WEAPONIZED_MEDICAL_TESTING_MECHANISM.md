@@ -344,7 +344,7 @@ Use evaluation results to:
 
 **Legal Practice Council Rules:**
 - Duty to court takes precedence over client instructions
-- Prohibition on knowingly misleading court
+- Prohibition on knowingly not supported by evidence court
 - Professional responsibility for proper use of legal process
 
 ---
@@ -479,4 +479,4 @@ This represents not just witness intimidation, but a **systematic attack on obje
 - Legal Practice Council disciplinary proceedings
 - Provincial Law Society reporting requirements
 
-The weaponization of medical authority for witness intimidation and evidence suppression represents one of the most dangerous forms of professional corruption - one that strikes at the heart of both medical ethics and the rule of law.
+The weaponization of medical authority for witness intimidation and evidence suppression represents one of the most concerning forms of professional corruption - one that strikes at the heart of both medical ethics and the rule of law.

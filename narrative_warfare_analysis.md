@@ -54,7 +54,7 @@ The July 26, 2017 Shopify Plus onboarding email provides **irrefutable evidence*
 - Shopify Plus onboarding was managed directly by Kayla, not any "head office"
 - No evidence of Peter or Rynette involvement in 2017 business operations
 - Client relationships were managed by Daniel and Kayla personally
-- **Conclusion**: "Head office" narrative is a post-death fabrication
+- **Conclusion**: "Head office" narrative is a post-death statement not supported by available evidence
 
 **2. Timeline of Appropriation**
 - 2017: Legitimate operations under Daniel and Kayla

@@ -152,4 +152,4 @@
 4. Focus on R10M collection, not fighting
 
 ---
-*This analysis shows how the R10M debt owed to both parties makes their conflict financially irrational and suggests manipulation by third parties who benefit from their division.*
+*This analysis shows how the R10M debt owed to both parties makes their conflict financially not consistent with expected behavior and suggests manipulation by third parties who benefit from their division.*

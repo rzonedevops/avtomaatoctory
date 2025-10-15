@@ -105,7 +105,7 @@ The Shopify invoices provide documentary evidence that Peter and Rynette's sworn
 The systematic misrepresentation of financial flows suggests **intentional deception** designed to:
 1. Justify unauthorized control of SA operations
 2. Create false legal basis for asset seizure
-3. Mislead courts about actual financial relationships
+3. provide inaccurate information courts about actual financial relationships
 
 ### Asset Recovery Implications
 The evidence shows that:
@@ -122,7 +122,7 @@ The May 22, 2025 destruction of Shopify audit trails now takes on additional sig
 - **Purpose**: Eliminate proof that contradicted their false debt narrative
 
 ### Gaslighting Campaign Context
-The systematic gaslighting of Daniel and Jacqui now appears designed to:
+The systematic gaslighting of Daniel and Jacqui now may be intended to:
 - Prevent exposure of false debt claims
 - Discredit witnesses who knew the true financial flows
 - Create false historical narrative to support fraudulent asset seizure

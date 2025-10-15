@@ -607,7 +607,7 @@ Trust is entitled to trace RWD's Shopify revenue and attach it for debt payment.
 
 8. **Fraudulent Transfer Pattern** - Using corporate structure to avoid creditor claims
 
-9. **Personal Liability** - Directors (including Peter) may be personally liable for reckless/insolvent trading
+9. **Personal Liability** - Directors (including Peter) may be personally liable for without adequate consideration/insolvent trading
 
 10. **Strengthens Jacqueline's Case** - Provides concrete evidence of self-dealing and conflict of interest
 

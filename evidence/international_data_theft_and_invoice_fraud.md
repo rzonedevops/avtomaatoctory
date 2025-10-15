@@ -339,7 +339,7 @@ This document analyzes the international criminal conspiracy involving theft of 
 **Elements Proven**:
 - Unauthorized act (data export)
 - Intent to impair operation (destroy UK business)
-- Reckless as to impairing operation
+- without adequate consideration as to impairing operation
 
 **Penalty**: Up to 10 years imprisonment
 

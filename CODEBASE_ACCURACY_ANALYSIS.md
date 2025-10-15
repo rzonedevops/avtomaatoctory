@@ -66,7 +66,7 @@ else:
 - `_analyze_available_means`: Makes broad assumptions based on agent type
 - `_analyze_opportunity_factors`: Uses arbitrary 24-hour window
 
-**Impact**: Analysis lacks sophistication and may produce misleading results.
+**Impact**: Analysis lacks sophistication and may produce not supported by evidence results.
 
 **Recommendation**: Implement domain-specific, evidence-based analysis methods.
 

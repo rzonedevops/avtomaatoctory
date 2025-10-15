@@ -58,9 +58,9 @@ This withdrawal letter from ENS Africa represents a **critical turning point** i
 - ENS acknowledges they won't enforce settlement
 - Enforcement responsibility shifted to Peter Faucitt's attorneys
 
-### 5. Bizarre Claims About "Absence of Legitimate Disputes"
+### 5. unusual Claims About "Absence of Legitimate Disputes"
 
-**Letter Statement**: "The suggestion in paragraph 2.4 that there was an absence of legitimate disputes is also bizarre given that a court order was granted against you and you were unhappy with the granting of the court order."
+**Letter Statement**: "The suggestion in paragraph 2.4 that there was an absence of legitimate disputes is also unusual given that a court order was granted against you and you were unhappy with the granting of the court order."
 
 **Analysis of Contradiction**:
 - ENS admits Daniel was "unhappy" with the court order

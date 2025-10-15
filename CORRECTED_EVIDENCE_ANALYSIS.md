@@ -124,7 +124,7 @@
 
 ## Conclusion
 
-The narrative that Jacqui gave Daniel R500,000 is completely false. The facts show:
+The narrative that Jacqui gave Daniel R500,000 is contradicted by available evidence. The facts show:
 
 1. Daniel took a legitimate director's loan from his own company
 2. This was necessary due to secret card cancellations

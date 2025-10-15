@@ -148,7 +148,7 @@
     - It was conducted without informing the murder victim's partner who was cooperating with police
     - It resulted in the destruction of audit trails and system integrity
 
-4.2A.24. The subsequent mismanagement of the systems, including allowing audit trails to lapse, appears designed to **destroy evidence** that might be relevant to both the murder investigation and the systematic theft of estate assets.
+4.2A.24. The subsequent mismanagement of the systems, including allowing audit trails to lapse, may be intended to **destroy evidence** that might be relevant to both the murder investigation and the systematic theft of estate assets.
 
 ### **The Applicant's Knowledge and Perjury**
 
