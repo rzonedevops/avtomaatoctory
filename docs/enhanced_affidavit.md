@@ -83,7 +83,7 @@ Do hereby make oath and state as follows:
     misappropriated company funds and taken full control over the
     various business entities.
 
-7.  I believe that Rynette has sought to mislead the Applicant into
+7.  I believe that Rynette has sought to provide inaccurate information to the Applicant
     believing that I and the Second Respondent have caused the
     businesses to allegedly suffer and has manipulated the Applicant to
     turn against us.
@@ -684,7 +684,7 @@ INTERDICT]{.underline}**
 
 67. The contents of these paragraphs are denied. The alleged
     discrepancies and irregular payments referred to by the Applicant
-    are entirely misconstrued and misleading -- same will be discussed
+    are entirely misconstrued and not supported by evidence -- same will be discussed
     below when the Second Respondent's bank statements. All payments
     made through the companies' banking accounts were legitimate
     business expenses, duly authorised in the ordinary course of
@@ -731,20 +731,20 @@ INTERDICT]{.underline}**
     justify costs for infrastructure he already owns and pays for independently.
 
 70. The Applicant's attempt to characterise Daniel's conduct as erratic
-    is unfounded and constitutes a deliberate effort to undermine his
+    is not supported by available evidence and constitutes a deliberate effort to undermine his
     credibility and competence. The Applicant has no technical or
     mathematical expertise and therefore lacks the understanding
     necessary to appreciate Daniel's specialised role and the highly
     analytical nature of his work.
 
 71. In regard to the cancellation of the business bank cards, this
-    action was both bizarre and unjustified. Despite allegedly
+    action was both unusual and unjustified. Despite allegedly
     discovering issues as far back as June 2025, the Applicant never
     once discussed these concerns with either myself or the Second
     Respondent. There was no communication, query, or meeting to clarify
     or investigate any supposed irregularities. Instead, the Applicant
     unilaterally cancelled the cards (including his own) without warning
-    or consultation. Such conduct is irrational and entirely
+    or consultation. Such conduct is not consistent with expected behavior and entirely
     inconsistent with the behaviour of a person genuinely attempting to
     resolve a legitimate concern.
 
@@ -794,7 +794,7 @@ INTERDICT]{.underline}**
     credentials to ensure that the Applicant and the relevant
     accountants could directly access all subscription and payment
     accounts. The allegation that the annexure "confirms" the
-    Applicant's version is therefore false and misleading.
+    Applicant's version is therefore false and not supported by evidence.
 
 77. It is clear that the communications reflected in Annexure PF7 were
     not initiated upon the Applicant's instructions, but rather by the
@@ -827,18 +827,18 @@ INTERDICT]{.underline}**
     representatives had full access to the company's accounts and
     records.
 
-80. It is false and misleading to allege that the Second Respondent
+80. It is false and not supported by evidence to allege that the Second Respondent
     elected not to provide employees or staff with access to their
     historic emails and email accounts. The Second Respondent in fact
     provided full cooperation, including his login credentials, shared
     spreadsheets, and access details to the relevant accounts, as
     evidenced by the correspondence and documents annexed to these
     proceedings. The statement that he did so "on an ad hoc basis, as it
-    suited him" is a fabrication and contradicted by the documentary
+    suited him" is a statement not supported by available evidence and contradicted by the documentary
     record. The Applicant's own annexures reflect that the Second
     Respondent engaged extensively with staff and acted transparently at
     all times. Accordingly, the Applicant's own version is entirely
-    false and must be rejected in its entirety.
+    false and is not supported by the evidence.
 
 **[AD PARAGRAPH 7.14 TO 7.15]{.underline}**
 
@@ -942,7 +942,7 @@ INTERDICT]{.underline}**
     maintenance, accounting systems, hardware, and software support.
 
 93. Any suggestion that the said expenses are unexplained or that there
-    are almost no invoices is incorrect and misleading. Supporting
+    are almost no invoices is incorrect and not supported by evidence. Supporting
     invoices, proof of payments, and related records have either already
     been provided or can readily be substantiated through the company's
     accounting records and bank statements. As myself and the Second
@@ -980,7 +980,7 @@ INTERDICT]{.underline}**
 **[AD PARAGRAPH 8.6]{.underline}**
 
 97. The contents hereof are denied. The reference to the "birthday gift"
-    is misplaced and misleading. The item in question was not a "gift"
+    is misplaced and not supported by evidence. The item in question was not a "gift"
     at all, but rather a director's loan advanced in accordance with
     standard accounting practice. Accordingly, there is nothing
     unexplainable about the said transaction or the related amounts.
@@ -1020,7 +1020,7 @@ INTERDICT]{.underline}**
      efficiency.
 
 102. The claim that the business activities are inexplicable or would
-     cause serious tax implications is entirely speculative and without
+     cause serious tax implications is not evidenced and without
      factual basis. The RegimA companies have consistently maintained
      full and proper records of all business transactions, including
      cross-border payments. The foreign expenditures referenced are
@@ -1035,13 +1035,13 @@ INTERDICT]{.underline}**
      materially impacted our ability to manage and process payments on
      behalf of the entities. This, too, underscores the fact that the
      allegations of financial impropriety are both misplaced and
-     misleading.
+     not supported by evidence.
 
 **[AD PARAGRAPH 9 TO 9.3]{.underline}**
 
 104. The contents hereof are denied. The allegation of "substantial
-     financial misconduct" is wholly unfounded, unsubstantiated, and
-     devoid of any factual or evidentiary support. No act or omission on
+     financial misconduct" is not evidenced, unsubstantiated, and
+     lacking any factual or evidentiary support. No act or omission on
      the part of any of the Respondents constitutes misconduct of any
      nature, whether financial or otherwise. The assertion that such
      conduct is "neither sustainable nor acceptable" is accordingly
@@ -1050,7 +1050,7 @@ INTERDICT]{.underline}**
 
 105. The statement that none of the Respondents are resellers in
      technology or technological-related items or services is irrelevant
-     and misleading. The expenses incurred were not contingent upon the
+     and not supported by evidence. The expenses incurred were not contingent upon the
      respondents being resellers but rather related to operational, IT,
      and infrastructure needs essential for the functioning of the
      companies. These included costs for systems support, software
@@ -1094,7 +1094,7 @@ INTERDICT]{.underline}**
      The allegations suggesting that either myself or my son have acted
      in a manner that could be characterised as delinquent, or that
      would justify any form of probationary order, are entirely
-     unfounded, unsubstantiated, and without merit. At all times, both
+     not supported by available evidence, unsubstantiated, and without merit. At all times, both
      my son and I have acted with the utmost integrity, transparency,
      and in strict compliance with our fiduciary and statutory
      obligations as directors. Our actions have consistently been aimed
@@ -1130,7 +1130,7 @@ INTERDICT]{.underline}**
      and in accordance with applicable legal and accounting standards.
 
 114. The Applicant's blanket allegation of "clear contravention" is
-     entirely unsubstantiated, devoid of factual basis, and
+     entirely unsubstantiated, lacking factual basis, and
      demonstrative of a fundamental misunderstanding of the operations
      and governance of the entities in question.
 
@@ -1159,7 +1159,7 @@ INTERDICT]{.underline}**
 
 118. Any suggestion that our actions have been oppressive, unfairly
      prejudicial, or in disregard of the Applicant's interests is wholly
-     unfounded, misleading, and without evidentiary support. The
+     not supported by available evidence. The
      Applicant's allegations represent a misinterpretation of the
      Companies Act and the Close Corporations Act and are nothing more
      than an attempt to improperly invoke statutory provisions to
@@ -1198,7 +1198,7 @@ INTERDICT]{.underline}**
 **[AD PARAGRAPH 10.13]{.underline}**
 
 122. The contents of hereof are likewise denied. It is false and
-     misleading to allege that "significant sums of money cannot be
+     not supported by evidence to allege that "significant sums of money cannot be
      accounted for." Every transaction can be verified through
      supporting documentation, including invoices, bank statements, and
      accounting entries. Any alleged discrepancies stem not from
@@ -1239,7 +1239,7 @@ INTERDICT]{.underline}**
      provides no supporting proof or documentary evidence to
      substantiate any of the allegations made herein. These averments
      amount to nothing more than blanket statements, speculative in
-     nature, and entirely devoid of factual foundation.
+     nature, and lacking factual foundation.
 
 128. It is specifically denied that the Third to Sixth respondents "do
      not receive payment" from the UK branch. All transactions between
@@ -1291,14 +1291,14 @@ INTERDICT]{.underline}**
 133. The contents hereof are denied in their entirety. The Applicant
      provides no proof whatsoever of any alleged "misappropriation" or
      irregular outflow of funds from the third to sixth respondents.
-     This allegation is a blanket statement, speculative and devoid of
+     This allegation is a blanket statement, speculative and lacking
      factual or evidential support. All company funds are fully
      accounted for and managed in accordance with accepted accounting
      principles and the Companies Act. There is no evidence of
      irregularities, nor have any "taxation problems" arisen as alleged.
-     These sweeping accusations are reckless, unfounded, and appear
-     designed solely to malign the First and Second Respondents and
-     mislead this Honourable Court.
+     These broad allegations are without adequate basis, not evidenced, and
+     appear to mischaracterize the First and Second Respondents and
+     provide inaccurate information to this Honourable Court.
 
 **[AD PARAGRAPH 12.3]{.underline}**
 
@@ -1333,7 +1333,7 @@ INTERDICT]{.underline}**
      companies in question remain fully operational, solvent, and
      properly managed in accordance with corporate governance
      principles. There is no "rot" to be "stopped," as alleged -- this
-     is a sensational and unfounded statement aimed at creating the
+     is a dramatic statement not supported by available evidence, aimed at creating the
      false impression of crisis where none exists.
 
 137. Myself and Second Respondents have continuously ensured that the
@@ -1341,10 +1341,10 @@ INTERDICT]{.underline}**
      operational decisions being made in good faith and in the best
      interests of the corporations. The suggestion that the absence of
      the Applicant's interdictory relief would lead to the collapse of
-     the entities is wholly speculative and misleading.
+     the entities is not supported by documentation and not supported by evidence.
 
 138. The Applicant's repeated attempts to interfere with management, his
-     unfounded accusations, and his pursuit of unnecessary litigation
+     not supported by available evidence accusations, and his pursuit of unnecessary litigation
      that have caused disruption and uncertainty within the corporate
      group. Accordingly, the relief sought under Part A is not only
      unjustified but constitutes an abuse of process designed to wrest
@@ -1372,10 +1372,10 @@ INTERDICT]{.underline}**
 
 141. The Applicant has suffered no injury (actual or otherwise) as a
      result of the actions of myself or Second Respondent. The
-     Applicant's alleged "apprehension" of future harm is unfounded and
+     Applicant's alleged "apprehension" of future harm is not supported by available evidence and
      unreasonable, particularly in light of the fact that no prior
      unlawful or harmful conduct has been demonstrated. The statements
-     contained herein are vague, unsubstantiated, and devoid of any
+     contained herein are vague, unsubstantiated, and lacking any
      factual detail or corroborating evidence.
 
 142. Myself and Second Respondents have, at all times, acted prudently
@@ -1440,7 +1440,7 @@ INTERDICT]{.underline}**
 
      3.  The absence of an alternative remedy.
 
-149. The application is therefore misconceived, devoid of merit, and
+149. The application is therefore misconceived, lacking merit, and
      should be dismissed with costs.
 
 150. Furthermore, the Applicant's request that any relief not granted
@@ -1477,7 +1477,7 @@ INTERDICT]{.underline}**
      entities. On the contrary, we have ensured their continued
      operation, stability, and compliance with all financial and
      statutory obligations. Any suggestion that we have caused financial
-     prejudice is baseless and unfounded.
+     prejudice is baseless and not supported by available evidence.
 
 **[AD PARAGRAPH 14.4]{.underline}**
 
@@ -1517,7 +1517,7 @@ INTERDICT]{.underline}**
      times, conducted the affairs of the RegimA group lawfully,
      transparently, and in the best interests of the entities, their
      employees, and their continued operation. The Applicant's effort to
-     brand us delinquent is therefore not only unfounded but vexatious,
+     brand us delinquent is therefore not only not supported by available evidence but vexatious,
      calculated solely to damage our reputations and to facilitate his
      hostile takeover of the companies under the guise of
      court-sanctioned legitimacy.
@@ -1526,7 +1526,7 @@ INTERDICT]{.underline}**
 
 158. The contents of these paragraphs are denied in their entirety. The
      Applicant's version regarding urgency is patently false,
-     misleading, and crafted purely to justify an unwarranted *ex parte*
+     not supported by evidence, and crafted purely to justify an unwarranted *ex parte*
      approach to this Honourable Court. As already explained above, the
      R500 000 payment relied upon so heavily by the Applicant was not an
      irregular or unauthorised withdrawal, but a lawful and transparent
@@ -1543,7 +1543,7 @@ INTERDICT]{.underline}**
      upon him to act immediately at that point. Moreover, nothing was
      ever discussed with myself (the Applicant's wife) and the Second
      Respondent (being his son) which would have resolved any issues. It
-     is bizarre as we have been in business with the Applicant for a
+     is unusual as we have been in business with the Applicant for a
      number of years, and any previous issues were always conveyed and
      discussed.
 
@@ -1578,8 +1578,8 @@ INTERDICT]{.underline}**
      the urgent procedure, and a manipulation of the *ex parte* process
      in order to secure far-reaching relief without giving us any
      opportunity to be heard. His actions are, in my respectful view,
-     *mala fide*, devoid of factual merit, and designed solely to
-     mislead this Honourable Court.
+     *mala fide*, lacking factual merit, and appear to
+     provide inaccurate information to this Honourable Court.
 
 **[AD PARAGRAPH 16.6]{.underline}**
 
@@ -1595,7 +1595,7 @@ INTERDICT]{.underline}**
 
 **[AD PARAGRAPH 16.7]{.underline}**
 
-165. The contents hereof are denied. It is false and misleading to
+165. The contents hereof are denied. It is false and not supported by evidence to
      allege that the Applicant was required to proceed "secretly" to
      avoid "knee-jerk reactions" or further alleged misappropriation.
 
@@ -1623,13 +1623,13 @@ INTERDICT]{.underline}**
 
 **[AD PARAGRAPH 16.9]{.underline}**
 
-168. The contents of this paragraph are denied. There was no reckless or
+168. The contents of this paragraph are denied. There was no without adequate consideration or
      delinquent conduct by either myself or the Second Respondent, nor
      was there any ongoing transgression.
 
 169. All company transactions were lawful, authorised, and supported by
      verifiable documentation. The Applicant's allegations are baseless
-     and appear designed to inflame and mislead the Court.
+     and may be intended to inflame and provide inaccurate information to the Court.
 
 170. Every passing day did not create new urgency. Rather, every passing
      day highlighted the Applicant's ongoing inaction and lack of *bona
@@ -1712,7 +1712,7 @@ voidable due to these fraudulent circumstances.
 175. The contents of this paragraph are denied. The Applicant's
      allegation that the Third to Sixth Respondents (and by implication
      the Applicant himself) would be unable to obtain substantial or any
-     redress in due course is entirely unfounded. There was no urgency
+     redress in due course is entirely not supported by available evidence. There was no urgency
      warranting the invocation of the Court's *ex parte* jurisdiction.
 
 176. On the contrary, the Applicant's true motive in bringing the
@@ -1732,7 +1732,7 @@ voidable due to these fraudulent circumstances.
 
 178. The contents of these paragraphs are denied. The allegation that
      the myself or the Second Respondent would have misappropriated
-     funds or reacted in a knee-jerk manner is entirely unfounded and
+     funds or reacted in a knee-jerk manner is entirely not supported by available evidence and
      without factual basis.
 
 179. As explained above, the amount of R500 000 referred to by the
@@ -1746,7 +1746,7 @@ voidable due to these fraudulent circumstances.
      to approach this Honourable Court *ex parte*, nor any factual
      foundation for suggesting that I or the Second Respondent would
      have destroyed documents or misappropriated funds. The Applicant's
-     reliance on these speculative and misleading allegations to obtain
+     reliance on these speculative and not supported by evidence allegations to obtain
      drastic relief without notice constitutes a material non-disclosure
      and a misuse of the urgent court process.
 
@@ -1803,7 +1803,7 @@ investigation.
      building, managing, and protecting the RegimA brand, both locally
      and internationally, with transparency, integrity, and diligence.
      The Applicant's recent actions are entirely inconsistent with his
-     historical conduct, and his unfounded allegations of mismanagement
+     historical conduct, and his not supported by available evidence allegations of mismanagement
      and delinquency are plainly intended to tarnish my reputation and
      destabilise the businesses that have thrived under the stewardship
      of myself and the Second Respondent.
