@@ -301,13 +301,13 @@ I certify that the deponent has acknowledged that he knows and understands the c
 
 ## **4. POINT-BY-POINT REBUTTAL TO THE FOUNDING AFFIDAVIT**
 
-I have read the Applicant’s founding affidavit. I deny the allegations of financial misconduct, neglect, and erratic behaviour in their entirety. The Applicant’s affidavit is a self-serving and perjured document designed to mislead this Honourable Court. I will address the most material falsehoods below.
+I have read the Applicant’s founding affidavit. I deny the allegations of financial misconduct, neglect, and erratic behaviour in their entirety. The Applicant’s affidavit is a self-serving and perjured document that appears to provide inaccurate information to this Honourable Court. I will address the most material falsehoods below.
 
 **Ad Paragraphs 7.2, 7.3, 8.1 - 8.7: The Allegations of Unexplained IT Expenses**
 
 4.1. The Applicant alleges that our accountant, Mr. Daniel Jacobus Bantjes, discovered "numerous discrepancies" and "irregular payments" relating to IT expenses, which he claims amount to R6,738,007.47 for the 2024 tax year and R2,116,159.47 for the 2025 tax year thus far.
 
-4.2. These allegations are false and deliberately misleading. The Applicant knows the true context of these expenses because he and Rynette Farrar were directly responsible for creating the very problems they now complain about.
+4.2. These allegations are false and deliberately not supported by evidence. The Applicant knows the true context of these expenses because he and Rynette Farrar were directly responsible for creating the very problems they now complain about.
 
 ### **4.2A. THE TRUE CONTEXT OF THE IT EXPENSES: SYSTEMATIC SABOTAGE FOLLOWING KAYLA'S MURDER**
 

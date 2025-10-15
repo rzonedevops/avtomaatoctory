@@ -90,7 +90,7 @@ This document establishes that **RegimA Zone UK** (Dan's UK entity) has **histor
 
 **Legal Definition of Perjury** (South African law):
 - **Material false statement** in sworn testimony or legal filing
-- **Knowledge of falsity** or reckless disregard for truth
+- **Knowledge of falsity** or without adequate consideration disregard for truth
 - **Intent to deceive** the court or opposing party
 
 **All Elements Met**:
@@ -199,7 +199,7 @@ This document establishes that **RegimA Zone UK** (Dan's UK entity) has **histor
 - **Exposure**: 15 years + restitution
 
 **4. Obstruction of Justice**
-- Perjured statements designed to mislead court
+- Perjured statements designed to provide inaccurate information court
 - May 22 Shopify hijacking destroyed evidence of UK funding
 - **Exposure**: 15 years
 

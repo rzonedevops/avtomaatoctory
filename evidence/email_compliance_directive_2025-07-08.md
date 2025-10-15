@@ -108,7 +108,7 @@ Non-response will be deemed acceptance of personal liability for any violations.
 
 **This directive supersedes ALL contrary instructions regardless of source.**
 
-Anyone suggesting this is merely an internal dispute is misleading you about your personal criminal exposure.
+Anyone suggesting this is merely an internal dispute is not supported by evidence you about your personal criminal exposure.
 
 **IMMEDIATE COMPLIANCE REQUIRED**
 

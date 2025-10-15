@@ -36,7 +36,7 @@ This summary is based exclusively on material evidence from the **October 9, 202
 
 ## Conclusion Based on Evidence
 
-The material evidence supports only one conclusion: **Jax has done nothing wrong**. She has been the designated victim in a complex criminal enterprise designed to generate massive hidden revenues while attributing inflated costs to her operational unit. The narrative of her mismanagement is a fabrication, contradicted by the documented evidence of a sophisticated, premeditated fraud.
+The material evidence supports only one conclusion: **Jax has done nothing wrong**. She has been the designated victim in a complex criminal enterprise designed to generate massive hidden revenues while attributing inflated costs to her operational unit. The narrative of her mismanagement is a statement not supported by available evidence, contradicted by the documented evidence of a sophisticated, premeditated fraud.
 
 ### The Real Story (Supported by Evidence):
 

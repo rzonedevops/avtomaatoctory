@@ -1,4 +1,4 @@
-# Bizarre Claims About
+# unusual Claims About
 
 ## Entity Profile
 - **Type**: Persons

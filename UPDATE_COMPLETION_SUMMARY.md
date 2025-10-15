@@ -49,7 +49,7 @@
 
 #### ✅ BANTJIES_DEBT_ANALYSIS.md
 - R10M debt implications
-- Why conflict is irrational
+- Why conflict is not consistent with expected behavior
 - Who benefits from division
 
 #### ✅ FINANCIAL_FACTS_SUMMARY.md

@@ -47,7 +47,7 @@ The criminal charges should include evidence of the broader pattern of abuse, in
 
 Daniel's bank statements provide the strongest defense against the fabricated allegations. A comprehensive analysis should be prepared showing that each questioned expense has a legitimate business purpose. This analysis should include documentation of normal business practices where company expenses are processed through personal accounts for administrative convenience.
 
-The evidence package should demonstrate that Peter's characterization of these expenses as gambling and pornography is deliberately misleading. Expert accounting testimony may be necessary to explain the business context and normal practices in small companies.
+The evidence package should demonstrate that Peter's characterization of these expenses as gambling and pornography is deliberately not supported by evidence. Expert accounting testimony may be necessary to explain the business context and normal practices in small companies.
 
 ### Pattern Documentation
 
@@ -87,7 +87,7 @@ The Hawks investigation team should be immediately informed of this escalation s
 
 This case represents a significant threat to the integrity of the criminal justice system. If witnesses can be systematically harassed and intimidated through fraudulent court applications, it undermines the entire legal framework for prosecuting serious crimes.
 
-The court should be made aware that allowing this medical testing scheme to proceed would set a dangerous precedent encouraging similar abuse by other defendants seeking to intimidate witnesses.
+The court should be made aware that allowing this medical testing scheme to proceed would set a concerning precedent encouraging similar abuse by other defendants seeking to intimidate witnesses.
 
 ## IMMEDIATE ACTION CHECKLIST
 
